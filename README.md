@@ -1,1 +1,1 @@
-# Rule
+Rule合集
