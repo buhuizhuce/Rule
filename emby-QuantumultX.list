@@ -30,6 +30,9 @@ HOST-SUFFIX,hk.aaa.ax,Emby
 # > CC
 HOST-SUFFIX,cc.ccemby.tk,Emby
 
+# > 佛系
+HOST-SUFFIX,4545.cf,Emby
+
 # > 404
 HOST-SUFFIX,404.sb,Emby
 
@@ -40,6 +43,8 @@ HOST-SUFFIX,pornemby.club,Emby
 HOST-SUFFIX,nakonako.net,Emby
 HOST-SUFFIX,nakoemby.com,Emby
 HOST-SUFFIX,20.205.38.244,Emby
+
+
 
 # > emby-flowercloud
 HOST-SUFFIX,emby.flowercloud.yt,Emby
