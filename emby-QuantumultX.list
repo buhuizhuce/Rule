@@ -1,55 +1,54 @@
 # > 终点站
-HOST-SUFFIX,pub1.emby.wtf
-HOST-SUFFIX,pub2.emby.wtf
-HOST-SUFFIX,pub3.emby.wtf
-HOST-SUFFIX,pub4.emby.wtf
+HOST-SUFFIX,pub1.emby.wtf,Emby
+HOST-SUFFIX,pub2.emby.wtf,Emby
+HOST-SUFFIX,pub3.emby.wtf,Emby
+HOST-SUFFIX,pub4.emby.wtf,Emby
 
 # > 卡戎
-HOST-SUFFIX,play.charontv.com
+HOST-SUFFIX,play.charontv.com,Emby
 
 # > 卷毛鼠
-HOST-SUFFIX,cf.jmsooo.com
-HOST-SUFFIX,ha.jmsooo.com
+HOST-SUFFIX,cf.jmsooo.com,Emby
+HOST-SUFFIX,ha.jmsooo.com,Emby
 
 # > 品云
-HOST-SUFFIX,py.embyplus.club
-HOST-SUFFIX,py2.embyplus.club
+HOST-SUFFIX,py.embyplus.club,Emby
+HOST-SUFFIX,py2.embyplus.club,Emby
 
 # > Polo
-HOST-SUFFIX,cu.poloemby.xyz
-HOST-SUFFIX,sfzf2.poloemby.xyz
+HOST-SUFFIX,cu.poloemby.xyz,Emby
+HOST-SUFFIX,sfzf2.poloemby.xyz,Emby
 
 # > MisakaF
-HOST-SUFFIX,cf.misakaf.org
-HOST-SUFFIX,4837.misakaf.org
+HOST-SUFFIX,cf.misakaf.org,Emby
+HOST-SUFFIX,4837.misakaf.org,Emby
 
 # > Misty
-HOST-SUFFIX,aaa.ax
-HOST-SUFFIX,hk.aaa.ax
+HOST-SUFFIX,aaa.ax,Emby
+HOST-SUFFIX,hk.aaa.ax,Emby
 
 # > CC
-HOST-SUFFIX,cc.ccemby.tk
+HOST-SUFFIX,cc.ccemby.tk,Emby
 
 # > 404
-HOST-SUFFIX,404.sb
+HOST-SUFFIX,404.sb,Emby
 
 # > pornemby
-HOST-SUFFIX,pornemby.club
+HOST-SUFFIX,pornemby.club,Emby
 
 # > NakoNako
-HOST-SUFFIX,nakonako.net
-HOST-SUFFIX,nakoemby.com
-HOST-SUFFIX,20.205.38.244
+HOST-SUFFIX,nakonako.net,Emby
+HOST-SUFFIX,nakoemby.com,Emby
+HOST-SUFFIX,20.205.38.244,Emby
 
 # > emby-flowercloud
-HOST-SUFFIX,emby.flowercloud.yt
+HOST-SUFFIX,emby.flowercloud.yt,Emby
 
 # > 流媒体Odyssey服务器
-HOST-SUFFIX,cf.odysseyplus.site
-HOST-SUFFIX,agahk.odysseyplus.site
-HOST-SUFFIX,agasg.odysseyplus.site
-HOST-SUFFIX,ru.odysseyplus.site
-
+HOST-SUFFIX,cf.odysseyplus.site,Emby
+HOST-SUFFIX,agahk.odysseyplus.site,Emby
+HOST-SUFFIX,agasg.odysseyplus.site,Emby
+HOST-SUFFIX,ru.odysseyplus.site,Emby
 
 
 
