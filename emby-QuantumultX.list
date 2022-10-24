@@ -33,13 +33,19 @@ HOST-SUFFIX,cc.ccemby.tk,Emby
 # > 佛系
 HOST-SUFFIX,4545.cf,Emby
 
+# > 404
+HOST-SUFFIX,404.sb,Emby
+
 # > peach
 HOST-SUFFIX,embymv.tk,Emby
 HOST-SUFFIX,emby-peach.blueseacdn.com,Emby
 HOST-SUFFIX,sg.embymv.tk,Emby
 
-# > 404
-HOST-SUFFIX,404.sb,Emby
+# > catfish
+HOST-SUFFIX,catfishemby.club,Emby
+
+
+
 
 # > pornemby
 HOST-SUFFIX,pornemby.club,Emby
