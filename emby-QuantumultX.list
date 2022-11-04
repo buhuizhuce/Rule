@@ -45,11 +45,11 @@ HOST-SUFFIX,sg.embymv.tk,Emby
 HOST-SUFFIX,catfishemby.club,Emby
 
 # > MJJ
-HOST-SUFFIX,de.mjjemby.org
-HOST-SUFFIX,cf.mjjemby.org
-HOST-SUFFIX,sg01.mjjemby.org
-HOST-SUFFIX,kr01.mjjemby.org
-HOST-SUFFIX,kr02.mjjemby.org
+HOST-SUFFIX,de.mjjemby.org,Emby
+HOST-SUFFIX,cf.mjjemby.org,Emby
+HOST-SUFFIX,sg01.mjjemby.org,Emby
+HOST-SUFFIX,kr01.mjjemby.org,Emby
+HOST-SUFFIX,kr02.mjjemby.org,Emby
 
 
 # > pornemby
