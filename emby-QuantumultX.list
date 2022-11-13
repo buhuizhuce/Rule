@@ -17,6 +17,8 @@ HOST-SUFFIX,py2.embyplus.club,Emby
 
 # > Polo
 HOST-SUFFIX,df.poloemby.xyz,Emby
+HOST-SUFFIX,cu.poloemby.xyz,Emby
+HOST-SUFFIX,nlz.poloemby.xyz,Emby
 HOST-SUFFIX,zf.poloemby.xyz,Emby
 HOST-SUFFIX,zfsg.poloemby.xyz,Emby
 HOST-SUFFIX,happy.poloemby.xyz,Emby
