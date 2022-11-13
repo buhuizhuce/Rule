@@ -54,6 +54,9 @@ HOST-SUFFIX,sg01.mjjemby.org,Emby
 HOST-SUFFIX,kr01.mjjemby.org,Emby
 HOST-SUFFIX,kr02.mjjemby.org,Emby
 
+# > EmbyX
+HOST-SUFFIX,us.embyx.one,direct
+
 
 # > pornemby
 HOST-SUFFIX,pornemby.club,Emby
@@ -64,15 +67,9 @@ HOST-SUFFIX,nakoemby.com,Emby
 HOST-SUFFIX,20.205.38.244,Emby
 
 
-
 # > emby-flowercloud
 HOST-SUFFIX,emby.flowercloud.yt,Emby
 
-# > 流媒体Odyssey服务器
-HOST-SUFFIX,cf.odysseyplus.site,Emby
-HOST-SUFFIX,agahk.odysseyplus.site,Emby
-HOST-SUFFIX,agasg.odysseyplus.site,Emby
-HOST-SUFFIX,ru.odysseyplus.site,Emby
 
 
 
