@@ -43,11 +43,12 @@ HOST-SUFFIX,404.sb,Emby
 # > peach
 HOST-SUFFIX,embymv.tk,Emby
 HOST-SUFFIX,emby-peach.blueseacdn.com,Emby
-HOST-SUFFIX,sg.embymv.tk,Emby
+HOST-SUFFIX,us.embymv.tk,Emby
 HOST-SUFFIX,kr.embymv.tk,Emby
 
 # > catfish
 HOST-SUFFIX,catfishemby.club,Emby
+HOST-SUFFIX,125.124.254.173,Emby
 
 # > MJJ
 HOST-SUFFIX,de.mjjemby.org,Emby
