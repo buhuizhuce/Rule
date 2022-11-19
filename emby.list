@@ -57,6 +57,12 @@ DOMAIN,sg01.mjjemby.org
 DOMAIN,kr01.mjjemby.org
 DOMAIN,kr02.mjjemby.org
 
+# > gfw
+DOMAIN,us-s1.gfwemby.org
+DOMAIN,us-s2.gfwemby.org
+DOMAIN,aws-us.gfwemby.org
+DOMAIN,aws-jp.gfwemby.org
+
 
 # > pornemby
 DOMAIN,pornemby.club
