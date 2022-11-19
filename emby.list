@@ -63,6 +63,8 @@ DOMAIN,us-s2.gfwemby.org
 DOMAIN,aws-us.gfwemby.org
 DOMAIN,aws-jp.gfwemby.org
 
+# > XMSS
+DOMAIN,emby.xmss.vip
 
 # > pornemby
 DOMAIN,pornemby.club
