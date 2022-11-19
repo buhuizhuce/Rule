@@ -60,6 +60,12 @@ HOST-SUFFIX,kr02.mjjemby.org,Emby
 # > EmbyX
 HOST-SUFFIX,us.embyx.one,direct
 
+# > gfw
+HOST-SUFFIX,us-s1.gfwemby.org,Emby
+HOST-SUFFIX,us-s2.gfwemby.org,Emby
+HOST-SUFFIX,aws-us.gfwemby.org,Emby
+HOST-SUFFIX,aws-jp.gfwemby.org,Emby
+
 
 # > pornemby
 HOST-SUFFIX,pornemby.club,Emby
