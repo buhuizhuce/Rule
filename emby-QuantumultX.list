@@ -66,6 +66,8 @@ HOST-SUFFIX,us-s2.gfwemby.org,Emby
 HOST-SUFFIX,aws-us.gfwemby.org,Emby
 HOST-SUFFIX,aws-jp.gfwemby.org,Emby
 
+# > XMSS
+HOST-SUFFIX,emby.xmss.vip,Emby
 
 # > pornemby
 HOST-SUFFIX,pornemby.club,Emby
