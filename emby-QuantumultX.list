@@ -54,8 +54,9 @@ HOST-SUFFIX,125.124.254.173,Emby
 HOST-SUFFIX,de.mjjemby.org,Emby
 HOST-SUFFIX,cf.mjjemby.org,Emby
 HOST-SUFFIX,sg01.mjjemby.org,Emby
-HOST-SUFFIX,kr01.mjjemby.org,Emby
+HOST-SUFFIX,jp01.mjjemby.org,Emby
 HOST-SUFFIX,kr02.mjjemby.org,Emby
+HOST-SUFFIX,fl01.mjjemby.org,Emby
 
 # > EmbyX
 HOST-SUFFIX,us.embyx.one,direct
