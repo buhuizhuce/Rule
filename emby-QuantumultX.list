@@ -19,8 +19,6 @@ HOST-SUFFIX,py2.embyplus.club,Emby
 HOST-SUFFIX,df.poloemby.xyz,Emby
 HOST-SUFFIX,cu.poloemby.xyz,Emby
 HOST-SUFFIX,nlz.poloemby.xyz,Emby
-HOST-SUFFIX,zf.poloemby.xyz,Emby
-HOST-SUFFIX,zfsg.poloemby.xyz,Emby
 HOST-SUFFIX,happy.poloemby.xyz,Emby
 
 # > MisakaF
@@ -35,7 +33,7 @@ HOST-SUFFIX,hk.aaa.ax,Emby
 HOST-SUFFIX,cc.ccemby.tk,Emby
 
 # > 佛系
-HOST-SUFFIX,4545.cf,Emby
+HOST-SUFFIX,1.4545.cf,Emby
 
 # > 404
 HOST-SUFFIX,404.sb,Emby
@@ -69,6 +67,9 @@ HOST-SUFFIX,aws-jp.gfwemby.org,Emby
 
 # > XMSS
 HOST-SUFFIX,emby.xmss.vip,Emby
+
+# > DV
+HOST-SUFFIX,emby.lzlz.cc,Emby
 
 # > pornemby
 HOST-SUFFIX,pornemby.club,Emby
