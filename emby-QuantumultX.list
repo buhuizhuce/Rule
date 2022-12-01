@@ -21,6 +21,16 @@ HOST-SUFFIX,cu.poloemby.xyz,Emby
 HOST-SUFFIX,nlz.poloemby.xyz,Emby
 HOST-SUFFIX,happy.poloemby.xyz,Emby
 
+# > Orange
+HOST-SUFFIX,embytv.cf,Emby
+
+# > peach
+HOST-SUFFIX,embymv.tk,Emby
+HOST-SUFFIX,sg.embymv.tk,Emby
+HOST-SUFFIX,jp.embymv.tk,Emby
+HOST-SUFFIX,kr.embymv.tk,Emby
+HOST-SUFFIX,us.embymv.tk,Emby
+
 # > MisakaF
 HOST-SUFFIX,cf.misakaf.org,Emby
 HOST-SUFFIX,he.misakaf.org,Emby
@@ -38,11 +48,7 @@ HOST-SUFFIX,1.4545.cf,Emby
 # > 404
 HOST-SUFFIX,404.sb,Emby
 
-# > peach
-HOST-SUFFIX,embymv.tk,Emby
-HOST-SUFFIX,emby-peach.blueseacdn.com,Emby
-HOST-SUFFIX,us.embymv.tk,Emby
-HOST-SUFFIX,kr.embymv.tk,Emby
+
 
 # > catfish
 HOST-SUFFIX,catfishemby.club,Emby
@@ -73,6 +79,9 @@ HOST-SUFFIX,emby.lzlz.cc,Emby
 
 # > More
 HOST-SUFFIX,moreemby.com,Emby
+
+# > infinityfly
+HOST-SUFFIX,infinityfly.top,Emby
 
 # > 不可描述
 HOST-SUFFIX,emby.agon.cf,Emby
