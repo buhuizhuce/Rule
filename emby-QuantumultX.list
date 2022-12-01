@@ -74,6 +74,14 @@ HOST-SUFFIX,emby.lzlz.cc,Emby
 # > More
 HOST-SUFFIX,moreemby.com,Emby
 
+# > 酒吧影业
+HOST-SUFFIX,emby.o9o.nl,Emby
+HOST-SUFFIX,ddnsjp.titams.xyz,Emby
+
+# > Loser
+HOST-SUFFIX,11.loseremby.org,direct
+HOST-SUFFIX,cf.emby.ml,Emby
+
 # > pornemby
 HOST-SUFFIX,pornemby.club,Emby
 
