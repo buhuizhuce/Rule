@@ -21,6 +21,9 @@ DOMAIN,cu.poloemby.xyz
 DOMAIN,nlz.poloemby.xyz
 DOMAIN,happy.poloemby.xyz
 
+# > Orange
+DOMAIN,embytv.cf
+
 # > MisakaF
 DOMAIN,cf.misakaf.org
 DOMAIN,he.misakaf.org
@@ -40,9 +43,10 @@ DOMAIN,1.4545.cf
 
 # > peach
 DOMAIN,embymv.tk
-DOMAIN,emby-peach.blueseacdn.com
-DOMAIN,us.embymv.tk
+DOMAIN,sg.embymv.tk
+DOMAIN,jp.embymv.tk
 DOMAIN,kr.embymv.tk
+DOMAIN,us.embymv.tk
 
 # > catfish
 DOMAIN,catfishemby.club
@@ -70,6 +74,9 @@ DOMAIN,emby.lzlz.cc
 
 # > More
 DOMAIN,moreemby.com
+
+# > infinityfly
+DOMAIN,infinityfly.top
 
 # > 不可描述
 DOMAIN,emby.agon.cf
