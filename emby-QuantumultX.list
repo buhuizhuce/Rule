@@ -36,8 +36,7 @@ HOST-SUFFIX,cf.misakaf.org,Emby
 HOST-SUFFIX,he.misakaf.org,Emby
 
 # > Misty
-HOST-SUFFIX,aaa.ax,Emby
-HOST-SUFFIX,hk.aaa.ax,Emby
+HOST-SUFFIX,misty.ltd,Emby
 
 # > CC
 HOST-SUFFIX,cc.ccemby.tk,Emby
