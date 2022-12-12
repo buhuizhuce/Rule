@@ -1,108 +1,113 @@
 # > 终点站
-HOST-SUFFIX,pub1.emby.wtf,Emby
-HOST-SUFFIX,pub2.emby.wtf,Emby
-HOST-SUFFIX,pub3.emby.wtf,Emby
-HOST-SUFFIX,pub4.emby.wtf,Emby
+HOST,pub1.emby.wtf,Emby
+HOST,pub2.emby.wtf,Emby
+HOST,pub3.emby.wtf,Emby
+HOST,pub4.emby.wtf,Emby
 
 # > 卡戎
-HOST-SUFFIX,play.charontv.com,Emby
+HOST,play.charontv.com,Emby
 
 # > 卷毛鼠
-HOST-SUFFIX,cf.jmsooo.com,Emby
-HOST-SUFFIX,ha.jmsooo.com,Emby
+HOST,cf.jmsooo.com,Emby
+HOST,ha.jmsooo.com,Emby
 
 # > 品云
-HOST-SUFFIX,py.embyplus.club,Emby
-HOST-SUFFIX,py2.embyplus.club,Emby
+# 新加坡
+HOST,py.embyplus.club,Emby 
+HOST,py2.embyplus.club,Emby
 
 # > Polo
-HOST-SUFFIX,df.poloemby.xyz,Emby
-HOST-SUFFIX,cu.poloemby.xyz,Emby
-HOST-SUFFIX,nlz.poloemby.xyz,Emby
-HOST-SUFFIX,happy.poloemby.xyz,Emby
+HOST,df.poloemby.xyz,Emby
+HOST,cu.poloemby.xyz,Emby
+HOST,nlz.poloemby.xyz,DIRECT
+HOST,happy.poloemby.xyz,DIRECT
 
 # > Orange
-HOST-SUFFIX,embytv.cf,Emby
+# 香港/德国
+HOST,embytv.cf,Emby
 
 # > peach
-HOST-SUFFIX,embymv.tk,Emby
-HOST-SUFFIX,jp.embymv.tk,Emby
-HOST-SUFFIX,kr.embymv.tk,Emby
-HOST-SUFFIX,us.embymv.tk,Emby
+# 香港/日本
+HOST,embymv.tk,Emby
+# 优先
+HOST,kr.embymv.tk,DIRECT
+# 联通
+HOST,jp.embymv.tk,DIRECT
+HOST,us.embymv.tk,DIRECT
 
 # > MisakaF
-HOST-SUFFIX,cf.misakaf.org,Emby
-HOST-SUFFIX,he.misakaf.org,Emby
-HOST-SUFFIX,4837.misakaf.org,direct
+# DIRECT/PROXY
+HOST,cf.misakaf.org,DIRECT
+# 亚洲PROXY
+HOST,he.misakaf.org,Emby
+# DIRECT
+HOST,4837.misakaf.org,DIRECT
 
 # > Misty
-HOST-SUFFIX,misty.ltd,Emby
+HOST,misty.ltd,DIRECT
 
 # > CC
-HOST-SUFFIX,cc.ccemby.tk,Emby
+# 电信建议PROXY
+HOST,cc.ccemby.tk,DIRECT
 
 # > 佛系
-HOST-SUFFIX,1.4545.cf,Emby
+HOST,1.4545.cf,Emby
 
 # > catfish
-HOST-SUFFIX,catfishemby.club,Emby
-HOST-SUFFIX,112.30.145.72,Emby
+HOST,catfishemby.club,Emby
+HOST,112.30.145.72,DIRECT
 
 # > MJJ
-HOST-SUFFIX,de.mjjemby.org,Emby
-HOST-SUFFIX,cf.mjjemby.org,Emby
-HOST-SUFFIX,sg01.mjjemby.org,Emby
-HOST-SUFFIX,jp01.mjjemby.org,Emby
-HOST-SUFFIX,jp02.mjjemby.org,Emby
-HOST-SUFFIX,kr02.mjjemby.org,Emby
+HOST,de.mjjemby.org,DIRECT
+HOST,cf.mjjemby.org,Emby
+HOST,sg01.mjjemby.org,DIRECT
+HOST,jp01.mjjemby.org,DIRECT
+HOST,jp02.mjjemby.org,Emby
+HOST,kr02.mjjemby.org,Emby
 
 # > EmbyX
-HOST-SUFFIX,us.embyx.one,direct
+HOST,us.embyx.one,DIRECT
 
 # > gfw
-HOST-SUFFIX,us-s1.gfwemby.org,Emby
-HOST-SUFFIX,us-s2.gfwemby.org,Emby
-HOST-SUFFIX,us-s3.gfwemby.org,direct
+HOST,us-s1.gfwemby.org,Emby
+HOST,us-s2.gfwemby.org,Emby
+HOST,us-s3.gfwemby.org,DIRECT
 
 # > XMSS
-HOST-SUFFIX,emby.xmss.vip,Emby
+HOST,emby.xmss.vip,DIRECT
 
 # > DV
-HOST-SUFFIX,emby.lzlz.cc,Emby
+HOST,emby.lzlz.cc,DIRECT
 
 # > More
-HOST-SUFFIX,moreemby.com,Emby
+HOST,moreemby.com,Emby
 
 # > infinityfly
-HOST-SUFFIX,infinityfly.top,Emby
+HOST,infinityfly.top,DIRECT
 
 # > 不可描述
-HOST-SUFFIX,emby.agon.cf,Emby
+HOST,emby.agon.cf,DIRECT
 
 # > 酒吧影业
-HOST-SUFFIX,emby.o9o.nl,Emby
-HOST-SUFFIX,ddnsjp.titams.xyz,Emby
+HOST,emby.o9o.nl,Emby
+HOST,ddnsjp.titams.xyz,Emby
 
 # > Loser
-HOST-SUFFIX,11.loseremby.org,direct
-HOST-SUFFIX,cf.emby.ml,Emby
+HOST,11.loseremby.org,DIRECT
+HOST,cf.emby.ml,DIRECT
 
 # > Nebula
-HOST-SUFFIX,direct.nebula-emby.com,Emby
+HOST,DIRECT.nebula-emby.com,DIRECT
+
 
 # > pornemby
-HOST-SUFFIX,pornemby.club,Emby
+HOST,pornemby.club,Emby
 
 # > NakoNako
-HOST-SUFFIX,nakonako.net,Emby
-HOST-SUFFIX,nakoemby.com,Emby
-HOST-SUFFIX,20.205.38.244,Emby
-
+HOST,nakonako.net,Emby
+HOST,nakoemby.com,Emby
+HOST,20.205.38.244,Emby
 
 # > emby-flowercloud
-HOST-SUFFIX,emby.flowercloud.yt,Emby
-
-
-
-
+HOST,emby.flowercloud.yt,Emby
 
