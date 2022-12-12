@@ -27,6 +27,7 @@ DOMAIN,embytv.cf
 # > MisakaF
 DOMAIN,cf.misakaf.org
 DOMAIN,he.misakaf.org
+DOMAIN,4837.misakaf.org
 
 # > Misty
 DOMAIN,misty.ltd
@@ -34,22 +35,18 @@ DOMAIN,misty.ltd
 # > CC
 DOMAIN,cc.ccemby.tk
 
-# > 404
-DOMAIN,404.sb
-
 # > 佛系
 DOMAIN,1.4545.cf
 
 # > peach
 DOMAIN,embymv.tk
-DOMAIN,sg.embymv.tk
 DOMAIN,jp.embymv.tk
 DOMAIN,kr.embymv.tk
 DOMAIN,us.embymv.tk
 
 # > catfish
 DOMAIN,catfishemby.club
-DOMAIN,125.124.254.173
+DOMAIN,112.30.145.72
 
 # > MJJ
 DOMAIN,de.mjjemby.org
@@ -57,13 +54,12 @@ DOMAIN,cf.mjjemby.org
 DOMAIN,sg01.mjjemby.org
 DOMAIN,jp01.mjjemby.org
 DOMAIN,kr02.mjjemby.org
-DOMAIN,fl01.mjjemby.org
+DOMAIN,jp02.mjjemby.org
 
 # > gfw
 DOMAIN,us-s1.gfwemby.org
 DOMAIN,us-s2.gfwemby.org
-DOMAIN,aws-us.gfwemby.org
-DOMAIN,aws-jp.gfwemby.org
+DOMAIN,us-s3.gfwemby.org
 
 # > XMSS
 DOMAIN,emby.xmss.vip
@@ -86,6 +82,9 @@ DOMAIN,ddnsjp.titams.xyz
 
 # > Loser
 DOMAIN,cf.emby.ml
+
+# > Nebula
+DOMAIN,direct.nebula-emby.com
 
 # > pornemby
 DOMAIN,pornemby.club
