@@ -26,7 +26,6 @@ HOST-SUFFIX,embytv.cf,Emby
 
 # > peach
 HOST-SUFFIX,embymv.tk,Emby
-HOST-SUFFIX,sg.embymv.tk,Emby
 HOST-SUFFIX,jp.embymv.tk,Emby
 HOST-SUFFIX,kr.embymv.tk,Emby
 HOST-SUFFIX,us.embymv.tk,Emby
@@ -34,6 +33,7 @@ HOST-SUFFIX,us.embymv.tk,Emby
 # > MisakaF
 HOST-SUFFIX,cf.misakaf.org,Emby
 HOST-SUFFIX,he.misakaf.org,Emby
+HOST-SUFFIX,4837.misakaf.org,direct
 
 # > Misty
 HOST-SUFFIX,misty.ltd,Emby
@@ -44,22 +44,17 @@ HOST-SUFFIX,cc.ccemby.tk,Emby
 # > 佛系
 HOST-SUFFIX,1.4545.cf,Emby
 
-# > 404
-HOST-SUFFIX,404.sb,Emby
-
-
-
 # > catfish
 HOST-SUFFIX,catfishemby.club,Emby
-HOST-SUFFIX,125.124.254.173,Emby
+HOST-SUFFIX,112.30.145.72,Emby
 
 # > MJJ
 HOST-SUFFIX,de.mjjemby.org,Emby
 HOST-SUFFIX,cf.mjjemby.org,Emby
 HOST-SUFFIX,sg01.mjjemby.org,Emby
 HOST-SUFFIX,jp01.mjjemby.org,Emby
+HOST-SUFFIX,jp02.mjjemby.org,Emby
 HOST-SUFFIX,kr02.mjjemby.org,Emby
-HOST-SUFFIX,fl01.mjjemby.org,Emby
 
 # > EmbyX
 HOST-SUFFIX,us.embyx.one,direct
@@ -67,8 +62,7 @@ HOST-SUFFIX,us.embyx.one,direct
 # > gfw
 HOST-SUFFIX,us-s1.gfwemby.org,Emby
 HOST-SUFFIX,us-s2.gfwemby.org,Emby
-HOST-SUFFIX,aws-us.gfwemby.org,Emby
-HOST-SUFFIX,aws-jp.gfwemby.org,Emby
+HOST-SUFFIX,us-s3.gfwemby.org,direct
 
 # > XMSS
 HOST-SUFFIX,emby.xmss.vip,Emby
@@ -92,6 +86,9 @@ HOST-SUFFIX,ddnsjp.titams.xyz,Emby
 # > Loser
 HOST-SUFFIX,11.loseremby.org,direct
 HOST-SUFFIX,cf.emby.ml,Emby
+
+# > Nebula
+HOST-SUFFIX,direct.nebula-emby.com,Emby
 
 # > pornemby
 HOST-SUFFIX,pornemby.club,Emby
