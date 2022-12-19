@@ -88,9 +88,25 @@ HOST,infinityfly.top,DIRECT
 # > 不可描述
 HOST,emby.agon.cf,DIRECT
 
-# > 酒吧影业
-HOST,emby.o9o.nl,Emby
-HOST,ddnsjp.titams.xyz,Emby
+# > 清吧
+#海外专用线路
+HOST,194.9.62.134,Emby
+#国内普通优化
+HOST,103.135.249.87,DIRECT
+HOST,37.128.247.203,DIRECT
+#国内超级优化
+HOST,114.80.36.60,DIRECT
+HOST,14.215.163.57,DIRECT
+HOST,111.22.142.145,DIRECT
+HOST,223.111.132.10,DIRECT
+HOST,14.215.163.106,DIRECT
+HOST,49.7.208.101,DIRECT
+HOST,114.80.36.200,DIRECT
+# > 会所
+#海外专用线路
+HOST,194.9.62.121,Emby
+#国内普通优化
+HOST,103.135.249.87,DIRECT
 
 # > Loser
 HOST,11.loseremby.org,DIRECT
@@ -98,6 +114,9 @@ HOST,cf.emby.ml,DIRECT
 
 # > Nebula
 HOST,DIRECT.nebula-emby.com,DIRECT
+
+# > AcEmby
+HOST,play.acemby.org,DIRECT
 
 
 # > pornemby
