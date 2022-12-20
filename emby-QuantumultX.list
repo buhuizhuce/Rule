@@ -118,6 +118,9 @@ HOST,DIRECT.nebula-emby.com,DIRECT
 # > AcEmby
 HOST,play.acemby.org,DIRECT
 
+# > BlueSea
+HOST,emby-pub1.blueseacdn.com,DIRECT
+
 
 # > pornemby
 HOST,pornemby.club,Emby
