@@ -120,6 +120,8 @@ HOST,play.acemby.org,DIRECT
 
 # > BlueSea
 HOST,emby-pub1.blueseacdn.com,DIRECT
+HOST,bsem.ddns.me,DIRECT
+
 
 
 # > pornemby
