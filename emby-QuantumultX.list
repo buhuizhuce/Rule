@@ -19,8 +19,11 @@ HOST,py2.embyplus.club,Emby
 # > Polo
 HOST,df.poloemby.xyz,Emby
 HOST,cu.poloemby.xyz,Emby
-HOST,nlz.poloemby.xyz,DIRECT
 HOST,happy.poloemby.xyz,DIRECT
+HOST,jp.pololine.ml,DIRECT
+HOST,cmi.pololine.ml,DIRECT
+HOST,sp.pololine.ml,DIRECT
+
 
 # > Orange
 # 香港/德国
