@@ -58,7 +58,7 @@ HOST,1.4545.cf,Emby
 
 # > catfish
 HOST,catfishemby.club,Emby
-HOST,112.30.145.72,DIRECT
+HOST,54.222.246.145,DIRECT
 
 # > MJJ
 HOST,de.mjjemby.org,DIRECT
@@ -95,21 +95,11 @@ HOST,emby.agon.cf,DIRECT
 #海外专用线路
 HOST,194.9.62.134,Emby
 #国内普通优化
-HOST,103.135.249.87,DIRECT
 HOST,37.128.247.203,DIRECT
-#国内超级优化
-HOST,114.80.36.60,DIRECT
-HOST,14.215.163.57,DIRECT
-HOST,111.22.142.145,DIRECT
-HOST,223.111.132.10,DIRECT
-HOST,14.215.163.106,DIRECT
-HOST,49.7.208.101,DIRECT
-HOST,114.80.36.200,DIRECT
+
 # > 会所
 #海外专用线路
 HOST,194.9.62.121,Emby
-#国内普通优化
-HOST,103.135.249.87,DIRECT
 
 # > Loser
 HOST,11.loseremby.org,DIRECT
@@ -126,14 +116,13 @@ HOST,emby-pub1.blueseacdn.com,DIRECT
 HOST,bsem.ddns.me,DIRECT
 
 
-
 # > pornemby
 HOST,pornemby.club,Emby
 
 # > NakoNako
 HOST,nakonako.net,Emby
-HOST,nakoemby.com,Emby
-HOST,20.205.38.244,Emby
+HOST,nakoemby.com,DIRECT
+HOST,20.205.38.244,DIRECT
 
 # > emby-flowercloud
 HOST,emby.flowercloud.yt,Emby
