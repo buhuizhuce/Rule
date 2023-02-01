@@ -128,7 +128,13 @@ HOST,20.205.38.244,DIRECT
 HOST,nextfilm.nmg.llc,DIRECT
 
 # > 威威
-HOST,gy.embyvip.org:80/,DIRECT
+HOST,gy.embyvip.org,DIRECT
+
+# > hxd
+HOST,emby.222921.xyz:443,Emby
+HOST,embyen.222921.xyz:443,DIRECT
+HOST,embyjp.222921.xyz:443,DIRECT
+HOST,cf.222921.xyz:443,Emby
 
 # > emby-flowercloud
 HOST,Emby.flowercloud.yt,Emby
