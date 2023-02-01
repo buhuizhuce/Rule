@@ -131,10 +131,10 @@ HOST,nextfilm.nmg.llc,DIRECT
 HOST,gy.embyvip.org,DIRECT
 
 # > hxd
-HOST,emby.222921.xyz:443,Emby
-HOST,embyen.222921.xyz:443,DIRECT
-HOST,embyjp.222921.xyz:443,DIRECT
-HOST,cf.222921.xyz:443,Emby
+HOST,emby.222921.xyz,Emby
+HOST,embyen.222921.xyz,DIRECT
+HOST,embyjp.222921.xyz,DIRECT
+HOST,cf.222921.xyz,Emby
 
 # > emby-flowercloud
 HOST,Emby.flowercloud.yt,Emby
