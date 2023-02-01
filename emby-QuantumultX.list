@@ -13,36 +13,33 @@ HOST,ha.jmsooo.com,Emby
 
 # > 品云
 # 新加坡
-HOST,py.embyplus.club,Emby 
+HOST,py.embyplus.club,Emby
 HOST,py2.embyplus.club,Emby
 
 # > Polo
 HOST,df.poloemby.xyz,Emby
 HOST,cu.poloemby.xyz,Emby
 HOST,happy.poloemby.xyz,DIRECT
-HOST,jp.pololine.ml,DIRECT
 HOST,cmi.pololine.ml,DIRECT
 HOST,sp.pololine.ml,DIRECT
 
-
 # > Orange
 # 香港/德国
-HOST,embytv.cf,Emby
+HOST,Embytv.cf,Emby
 
 # > peach
 # 香港/日本
-HOST,embymv.tk,Emby
+HOST,Embymv.tk,Emby
 # 优先
 HOST,kr.embymv.tk,DIRECT
 # 联通
 HOST,jp.embymv.tk,DIRECT
-HOST,us.embymv.tk,DIRECT
 
 # > MisakaF
 # DIRECT/PROXY
 HOST,cf.misakaf.org,DIRECT
-# 亚洲PROXY
-HOST,he.misakaf.org,Emby
+# 电信/联通
+HOST,hk.misakaf.org,DIRECT
 # DIRECT
 HOST,4837.misakaf.org,DIRECT
 
@@ -58,7 +55,6 @@ HOST,1.4545.cf,Emby
 
 # > catfish
 HOST,catfishemby.club,Emby
-HOST,54.222.246.145,DIRECT
 
 # > MJJ
 HOST,de.mjjemby.org,DIRECT
@@ -77,10 +73,10 @@ HOST,us-s2.gfwemby.org,Emby
 HOST,us-s3.gfwemby.org,DIRECT
 
 # > XMSS
-HOST,emby.xmss.vip,DIRECT
+HOST,Emby.xmss.vip,DIRECT
 
 # > DV
-HOST,emby.lzlz.cc,DIRECT
+HOST,Emby.lzlz.cc,DIRECT
 
 # > More
 HOST,moreemby.com,Emby
@@ -89,27 +85,31 @@ HOST,moreemby.com,Emby
 HOST,infinityfly.top,DIRECT
 
 # > 不可描述
-HOST,emby.agon.cf,DIRECT
+HOST,Emby.agon.cf,DIRECT
 
 # > 清吧
 #海外专用线路
-HOST,194.9.62.134,Emby
+HOST,qbint.the98.ltd,Emby
 #国内普通优化
-HOST,37.128.247.203,DIRECT
+HOST,qbcn.the98.ltd,DIRECT
 
 # > 会所
 #海外专用线路
-HOST,194.9.62.121,Emby
+HOST,hsint.the98.ltd,Emby
+#国内普通优化
+HOST,hscn.the98.ltd,DIRECT
+
 
 # > Loser
 HOST,11.loseremby.org,DIRECT
 HOST,cf.emby.ml,DIRECT
 
 # > Nebula
-HOST,DIRECT.nebula-emby.com,DIRECT
+HOST,direct.nebula-emby.com,DIRECT
 
 # > AcEmby
 HOST,play.acemby.org,DIRECT
+HOST,cf.play.acemby.org,DIRECT
 
 # > BlueSea
 HOST,emby-pub1.blueseacdn.com,DIRECT
@@ -124,6 +124,11 @@ HOST,nakonako.net,Emby
 HOST,nakoemby.com,DIRECT
 HOST,20.205.38.244,DIRECT
 
-# > emby-flowercloud
-HOST,emby.flowercloud.yt,Emby
+# > NMG NEXT
+HOST,nextfilm.nmg.llc,DIRECT
 
+# > 威威
+HOST,gy.embyvip.org:80/,DIRECT
+
+# > emby-flowercloud
+HOST,Emby.flowercloud.yt,Emby
