@@ -36,12 +36,9 @@ HOST,kr.embymv.tk,DIRECT
 HOST,jp.embymv.tk,DIRECT
 
 # > MisakaF
-# DIRECT/PROXY
-HOST,cf.misakaf.org,DIRECT
-# 电信/联通
-HOST,hk.misakaf.org,DIRECT
-# DIRECT
-HOST,4837.misakaf.org,DIRECT
+HOST,cf.misakaf.org,Emby
+HOST,cdn.misakaf.org,DIRECT
+
 
 # > Misty
 HOST,misty.ltd,DIRECT
