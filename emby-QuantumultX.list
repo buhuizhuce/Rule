@@ -25,7 +25,8 @@ HOST,sp.pololine.ml,DIRECT
 
 # > Orange
 # 香港/德国
-HOST,Embytv.cf,Emby
+HOST,cf.Embytv.cf,Emby
+HOST,cdn.Embytv.cf,DIRECT
 
 # > peach
 # 香港/日本
