@@ -123,7 +123,8 @@ HOST,nakoemby.com,DIRECT
 HOST,20.205.38.244,DIRECT
 
 # > NMG NEXT
-HOST,nextfilm.nmg.llc,DIRECT
+HOST,film.nmg.llc,DIRECT
+HOST,film.chinaisp.org,DIRECT
 
 # > 威威
 HOST,gy.embyvip.org,DIRECT
