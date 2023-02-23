@@ -1,21 +1,20 @@
 # > 终点站
-HOST,pub1.emby.wtf,Emby
-HOST,pub2.emby.wtf,Emby
-HOST,pub3.emby.wtf,Emby
-HOST,pub4.emby.wtf,Emby
+HOST,pub1.emby.wtf,DIRECT
+HOST,pub2.emby.wtf,DIRECT
+HOST,pub3.emby.wtf,DIRECT
+HOST,pub4.emby.wtf,DIRECT
 
 # > 卡戎
 HOST,play.charontv.com,Emby
 
 # > 卷毛鼠
-HOST,cf.jmsooo.com,Emby
+HOST,cf.jmsooo.com,Emby  //&DIRECT
 HOST,ha.jmsooo.com,Emby
 
 # > 品云
-# 新加坡
 HOST,py.embyplus.club,DIRECT
-HOST,py2.embyplus.club,Emby
-
+HOST,py2.embyplus.club,狮城
+ 
 # > Polo
 HOST,df.poloemby.xyz,Emby
 HOST,cu.poloemby.xyz,Emby
@@ -24,79 +23,39 @@ HOST,cmi.pololine.ml,DIRECT
 HOST,sp.pololine.ml,DIRECT
 
 # > Orange
-# 香港/德国
-HOST,cf.Embytv.cf,Emby
+HOST,cf.Embytv.cf,香港  //香港&德国
 HOST,cdn.Embytv.cf,DIRECT
 
 # > peach
-# 香港/日本
-HOST,Embymv.tk,Emby
-# 优先
-HOST,kr.embymv.tk,DIRECT
-# 联通
-HOST,jp.embymv.tk,DIRECT
+
+HOST,Embymv.tk,香港  //香港&日本
+HOST,kr.embymv.tk,DIRECT  //优选
+HOST,jp.embymv.tk,DIRECT  //联通
 
 # > MisakaF
-HOST,cf.misakaf.org,Emby
+HOST,cf.misakaf.org,DIRECT   //Emby
 HOST,cdn.misakaf.org,DIRECT
-
 
 # > Misty
 HOST,misty.ltd,DIRECT
 
 # > CC
-# 电信建议PROXY
 HOST,cc.ccemby.tk,日本
-
-# > 佛系
-HOST,1.4545.cf,Emby
 
 # > catfish
 HOST,catfishemby.club,Emby
 
-# > MJJ
-HOST,de.mjjemby.org,DIRECT
-HOST,cf.mjjemby.org,Emby
-HOST,sg01.mjjemby.org,DIRECT
-HOST,jp01.mjjemby.org,DIRECT
-HOST,jp02.mjjemby.org,Emby
-HOST,kr02.mjjemby.org,Emby
-
 # > EmbyX
 HOST,us.embyx.one,DIRECT
 
-# > gfw
-HOST,us-s1.gfwemby.org,Emby
-HOST,us-s2.gfwemby.org,Emby
-HOST,us-s3.gfwemby.org,DIRECT
-
-# > XMSS
-HOST,Emby.xmss.vip,DIRECT
-
 # > DV
 HOST,Emby.lzlz.cc,DIRECT
-
-# > More
-HOST,moreemby.com,Emby
 
 # > infinityfly
 HOST,infinityfly.top,DIRECT
 
 # > 不可描述
 HOST,Emby.agon.cf,DIRECT
-
-# > 清吧
-#海外专用线路
-HOST,qbint.the98.ltd,Emby
-#国内普通优化
-HOST,qbcn.the98.ltd,DIRECT
-
-# > 会所
-#海外专用线路
-HOST,hsint.the98.ltd,Emby
-#国内普通优化
-HOST,hscn.the98.ltd,DIRECT
-
 
 # > Loser
 HOST,11.loseremby.org,DIRECT
@@ -113,6 +72,12 @@ HOST,cf.play.acemby.org,DIRECT
 HOST,emby-pub1.blueseacdn.com,DIRECT
 HOST,bsem.ddns.me,DIRECT
 
+# > NMG NEXT
+HOST,film.nmg.llc,DIRECT
+HOST,film.chinaisp.org,DIRECT
+
+# > 威威
+HOST,gy.embyvip.org,DIRECT
 
 # > pornemby
 HOST,pornemby.club,Emby
@@ -122,18 +87,26 @@ HOST,nakonako.net,Emby
 HOST,nakoemby.com,DIRECT
 HOST,20.205.38.244,DIRECT
 
-# > NMG NEXT
-HOST,film.nmg.llc,DIRECT
-HOST,film.chinaisp.org,DIRECT
-
-# > 威威
-HOST,gy.embyvip.org,DIRECT
-
 # > hxd
-HOST,emby.222921.xyz,Emby
-HOST,embyen.222921.xyz,DIRECT
-HOST,embyjp.222921.xyz,DIRECT
-HOST,cf.222921.xyz,Emby
+HOST,cf.222921.xyz,DIRECT
+HOST,embyen.222921.xyz,DIRECT   //&英国
 
-# > emby-flowercloud
-HOST,Emby.flowercloud.yt,Emby
+
+
+
+
+
+
+
+
+# 已不可用
+# > MJJ
+HOST,de.mjjemby.org,DIRECT
+HOST,cf.mjjemby.org,Emby
+HOST,sg01.mjjemby.org,DIRECT
+HOST,jp01.mjjemby.org,DIRECT
+HOST,jp02.mjjemby.org,Emby
+HOST,kr02.mjjemby.org,Emby
+
+# > More
+HOST,moreemby.com,🇸🇬 狮城-SG
