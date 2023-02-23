@@ -8,7 +8,7 @@ HOST,pub4.emby.wtf,DIRECT
 HOST,play.charontv.com,Emby
 
 # > 卷毛鼠
-HOST,cf.jmsooo.com,Emby  //&DIRECT
+HOST,cf.jmsooo.com,Emby
 HOST,ha.jmsooo.com,Emby
 
 # > 品云
@@ -23,17 +23,17 @@ HOST,cmi.pololine.ml,DIRECT
 HOST,sp.pololine.ml,DIRECT
 
 # > Orange
-HOST,cf.Embytv.cf,香港  //香港&德国
+HOST,cf.Embytv.cf,香港
 HOST,cdn.Embytv.cf,DIRECT
 
 # > peach
 
-HOST,Embymv.tk,香港  //香港&日本
-HOST,kr.embymv.tk,DIRECT  //优选
-HOST,jp.embymv.tk,DIRECT  //联通
+HOST,Embymv.tk,香港
+HOST,kr.embymv.tk,DIRECT
+HOST,jp.embymv.tk,DIRECT
 
 # > MisakaF
-HOST,cf.misakaf.org,DIRECT   //Emby
+HOST,cf.misakaf.org,DIRECT
 HOST,cdn.misakaf.org,DIRECT
 
 # > Misty
@@ -89,7 +89,7 @@ HOST,20.205.38.244,DIRECT
 
 # > hxd
 HOST,cf.222921.xyz,DIRECT
-HOST,embyen.222921.xyz,DIRECT   //&英国
+HOST,embyen.222921.xyz,DIRECT
 
 
 
@@ -109,4 +109,4 @@ HOST,jp02.mjjemby.org,Emby
 HOST,kr02.mjjemby.org,Emby
 
 # > More
-HOST,moreemby.com,🇸🇬 狮城-SG
+HOST,moreemby.com,DIRECT
