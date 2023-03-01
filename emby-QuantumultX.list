@@ -37,7 +37,7 @@ HOST,cf.misakaf.org,DIRECT
 HOST,cdn.misakaf.org,DIRECT
 
 # > Misty
-HOST,misty.ltd,DIRECT
+HOST,misty.ltd,Emby
 
 # > CC
 HOST,cc.ccemby.tk,日本
