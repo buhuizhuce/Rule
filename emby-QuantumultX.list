@@ -1,3 +1,4 @@
+
 # > 终点站
 HOST,pub1.emby.wtf,DIRECT
 HOST,pub2.emby.wtf,DIRECT
@@ -13,22 +14,21 @@ HOST,ha.jmsooo.com,Emby
 
 # > 品云
 HOST,py.embyplus.club,DIRECT
-HOST,py2.embyplus.club,狮城
+HOST,py2.embyplus.club,Emby
  
 # > Polo
 HOST,df.poloemby.xyz,Emby
 HOST,cu.poloemby.xyz,Emby
 HOST,happy.poloemby.xyz,DIRECT
-HOST,cmi.pololine.ml,DIRECT
 HOST,sp.pololine.ml,DIRECT
 
 # > Orange
-HOST,cf.Embytv.cf,香港
+HOST,cf.Embytv.cf,Emby
 HOST,cdn.Embytv.cf,DIRECT
 
 # > peach
 
-HOST,Embymv.tk,香港
+HOST,Embymv.tk,Emby
 HOST,kr.embymv.tk,DIRECT
 HOST,jp.embymv.tk,DIRECT
 
@@ -40,13 +40,10 @@ HOST,cdn.misakaf.org,DIRECT
 HOST,misty.ltd,Emby
 
 # > CC
-HOST,cc.ccemby.tk,日本
-
-# > catfish
-HOST,catfishemby.club,Emby
+HOST,cc.ccemby.tk,Emby
 
 # > EmbyX
-HOST,us.embyx.one,DIRECT
+HOST,emby.speedx.one,DIRECT
 
 # > DV
 HOST,Emby.lzlz.cc,DIRECT
@@ -66,14 +63,14 @@ HOST,direct.nebula-emby.com,DIRECT
 
 # > AcEmby
 HOST,play.acemby.org,DIRECT
-HOST,cf.play.acemby.org,DIRECT
+HOST,cflix.acemby.org,DIRECT
 
 # > BlueSea
 HOST,emby-pub1.blueseacdn.com,DIRECT
 HOST,bsem.ddns.me,DIRECT
 
 # > NMG NEXT
-HOST,film.nmg.llc,DIRECT
+HOST,film.goodisp.org,DIRECT
 HOST,film.chinaisp.org,DIRECT
 
 # > 威威
@@ -89,14 +86,17 @@ HOST,20.205.38.244,DIRECT
 
 # > hxd
 HOST,bili.bili.rip,Emby
-HOST,embyjp.bili.rip,DIRECT   //&英国
+HOST,embyjp.bili.rip,DIRECT
+
+# > Mulgore
+HOST,202.61.255.248,Emby
 
 
 
 
-
-
-
+# 暂时停服
+# > catfish
+HOST,catfishemby.club,Emby
 
 
 # 已不可用
@@ -110,3 +110,9 @@ HOST,kr02.mjjemby.org,Emby
 
 # > More
 HOST,moreemby.com,DIRECT
+
+
+
+
+
+
