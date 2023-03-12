@@ -89,7 +89,7 @@ HOST,bili.bili.rip,Emby
 HOST,embyjp.bili.rip,DIRECT
 
 # > Mulgore
-HOST,202.61.255.248,Emby
+IP-CIDR,202.61.255.248/16,Emby
 
 
 
