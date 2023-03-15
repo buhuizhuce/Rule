@@ -68,6 +68,7 @@ HOST,cflix.acemby.org,DIRECT
 # > BlueSea
 HOST,emby-pub1.blueseacdn.com,DIRECT
 HOST,bsem.ddns.me,DIRECT
+HOST,Bluesea.ddns.me,DIRECT
 
 # > NMG NEXT
 HOST,film.goodisp.org,DIRECT
