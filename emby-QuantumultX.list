@@ -92,7 +92,8 @@ HOST,embyjp.bili.rip,DIRECT
 # > Mulgore
 IP-CIDR,202.61.255.248/16,Emby
 
-
+# > EmbyHub
+HOST,emby.ednovas.org,DIRECT
 
 
 # 暂时停服
