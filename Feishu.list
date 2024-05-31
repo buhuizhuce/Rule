@@ -228,6 +228,7 @@ IP-CIDR,156.59.27.0/24,no-resolve
 IP-CIDR,129.227.9.0/24,no-resolve
 IP-CIDR,154.85.90.0/24,no-resolve
 IP-CIDR,98.98.121.0/24,no-resolve
+DOMAIN-KEYWORD,feishu
 
 
 
