@@ -2,7 +2,8 @@
 
 DOMAIN-SUFFIX,feishu.net
 DOMAIN-SUFFIX,feishu.cn
-DOMAIN-SUFFIX,larkoffice.comDOMAIN-SUFFIX,feishucdn.com
+DOMAIN-SUFFIX,larkoffice.com
+DOMAIN-SUFFIX,feishucdn.com
 DOMAIN-SUFFIX,zjurl.cn
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,pstatp.com
@@ -229,6 +230,7 @@ IP-CIDR,129.227.9.0/24,no-resolve
 IP-CIDR,154.85.90.0/24,no-resolve
 IP-CIDR,98.98.121.0/24,no-resolve
 # personal
+DOMAIN-SUFFIX,snssdk.com
 IP-CIDR,36.250.241.230/32,no-resolve
 IP-CIDR,221.195.228.118/32,no-resolve
 DOMAIN-KEYWORD,feishu
