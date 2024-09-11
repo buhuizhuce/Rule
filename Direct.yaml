@@ -3,7 +3,7 @@ payload:
   - DOMAIN-SUFFIX,hdec.com
   - DOMAIN-SUFFIX,powerchina.cn
 # Feishu
-  - DOMAIN-SUFFIX,feishu.net  - 
+  - DOMAIN-SUFFIX,feishu.net
   - DOMAIN-SUFFIX,feishu.cn
   - DOMAIN-SUFFIX,larkoffice.com
   - DOMAIN-SUFFIX,feishucdn.com
@@ -263,7 +263,7 @@ payload:
   - DOMAIN-SUFFIX,yypt.com
 # 养基宝
   - DOMAIN-SUFFIX,yangjibao.com
-DOMAIN-KEYWORD,yangjibao
+  - DOMAIN-KEYWORD,yangjibao
   - DOMAIN-SUFFIX,shujupie.com
   - DOMAIN-SUFFIX,hiecheimaetu.com
 # 有知有行
