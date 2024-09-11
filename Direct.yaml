@@ -1,11 +1,11 @@
 payload:
 # 工作
   - DOMAIN-SUFFIX,hdec.com
-DOMAIN-SUFFIX,powerchina.cn
+  - DOMAIN-SUFFIX,powerchina.cn
 # Feishu
-DOMAIN-SUFFIX,feishu.net
-DOMAIN-SUFFIX,feishu.cn
-DOMAIN-SUFFIX,larkoffice.com
+  - DOMAIN-SUFFIX,feishu.net
+  - DOMAIN-SUFFIX,feishu.cn
+  - DOMAIN-SUFFIX,larkoffice.com
 DOMAIN-SUFFIX,feishucdn.com
 DOMAIN-SUFFIX,zjurl.cn
 DOMAIN-SUFFIX,snssdk.com
