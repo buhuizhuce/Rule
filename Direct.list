@@ -239,11 +239,6 @@ IP-CIDR,221.195.228.118/32,no-resolve
 DOMAIN-SUFFIX,uzwbdv.xyz
 # Apple
 #DOMAIN-SUFFIX,app-analytics-services.com
-# OCBC
-DOMAIN-KEYWORD,ocbc
-DOMAIN-SUFFIX,ocbc.com
-DOMAIN-SUFFIX,omtrdc.net
-DOMAIN-SUFFIX,everesttech.net
 # 长桥证券
 DOMAIN-KEYWORD,longbridge
 DOMAIN-SUFFIX,lbkrs.com
