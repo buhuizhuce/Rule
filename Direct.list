@@ -269,6 +269,8 @@ DOMAIN,media.xyzcdn.net
 DOMAIN-SUFFIX,jellow.site
 # 华住会
 DOMAIN-SUFFIX,huazhu.com
+# 锦江荟
+DOMAIN-SUFFIX,bestwehotel.com
 # oclean
 DOMAIN-SUFFIX,oclean.com
 DOMAIN-SUFFIX,dutils.com
