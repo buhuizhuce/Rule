@@ -1,11 +1,11 @@
 # Feishu
 payload:
-39.105.254.0/24,no-resolve
-39.105.247.0/25,no-resolve
-47.113.76.128/25,no-resolve
-47.113.77.0/24,no-resolve
-47.113.78.0/24,no-resolve
-101.133.204.0/24,no-resolve
+  - IP-CIDR,39.105.254.0/24,no-resolve
+  - IP-CIDR,39.105.247.0/25,no-resolve
+  - IP-CIDR,47.113.76.128/25,no-resolve
+  - IP-CIDR,47.113.77.0/24,no-resolve
+  - IP-CIDR,47.113.78.0/24,no-resolve
+  - IP-CIDR,101.133.204.0/24,no-resolve
 120.201.5.0/25,no-resolve
 123.184.46.0/25,no-resolve
 61.189.2.0/25,no-resolve
