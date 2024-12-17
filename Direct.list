@@ -280,7 +280,7 @@ DOMAIN-SUFFIX,todesk.com
 DOMAIN-SUFFIX,cl2009.com
 # Aqara
 DOMAIN-SUFFIX,aqara.com
-DOMAIN-SUFFIX,revenuecat.com
+#DOMAIN-SUFFIX,revenuecat.com
 # 米家
 DOMAIN-SUFFIX,mijia.tech
 DOMAIN-SUFFIX,miot-spec.org
