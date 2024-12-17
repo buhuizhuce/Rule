@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,everesttech.net
 # WISE
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,braze.eu
+# 博客
+DOMAIN-SUFFIX,itangtalk.com
 # 其他
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,openexchangerates.org
