@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,hdec.com
   - DOMAIN-SUFFIX,powerchina.cn
 # Feishu
+  - DOMAIN-KEYWORD,Feishu
   - DOMAIN-SUFFIX,feishu.net
   - DOMAIN-SUFFIX,feishu.cn
   - DOMAIN-SUFFIX,larkoffice.com
@@ -235,16 +236,17 @@ payload:
   - IP-CIDR,98.98.121.0/24,no-resolve
   - IP-CIDR,36.250.241.230/32,no-resolve
   - IP-CIDR,221.195.228.118/32,no-resolve
-
+  
 # Nxtitally
   - DOMAIN-SUFFIX,uzwbdv.xyz
 # Apple
 #  - DOMAIN-SUFFIX,app-analytics-services.com
 # OCBC
-  - DOMAIN-KEYWORD,ocbc
-  - DOMAIN-SUFFIX,ocbc.com
-  - DOMAIN-SUFFIX,omtrdc.net
-  - DOMAIN-SUFFIX,everesttech.net
+#  - DOMAIN-KEYWORD,ocbc
+#  - DOMAIN-SUFFIX,ocbc.com
+#  - DOMAIN-SUFFIX,omtrdc.net
+#  - DOMAIN-SUFFIX,everesttech.net
+
 # 长桥证券
   - DOMAIN-KEYWORD,longbridge
   - DOMAIN-SUFFIX,lbkrs.com
