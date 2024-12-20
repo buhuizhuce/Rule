@@ -1,44 +1,44 @@
 payload:
 # eM Client
-DOMAIN-SUFFIX,emclient.com
-DOMAIN-KEYWORD,emclient
+  - DOMAIN-SUFFIX,emclient.com
+  - DOMAIN-KEYWORD,emclient
 # Follow 
-DOMAIN-SUFFIX,api.follow.is
+  - DOMAIN-SUFFIX,api.follow.is
 # 八达通
-DOMAIN-KEYWORD,octopus
+  - DOMAIN-KEYWORD,octopus
 # 黄页
-DOMAIN-SUFFIX,vcards.metowolf.com
+  - DOMAIN-SUFFIX,vcards.metowolf.com
 # Ytoo
-DOMAIN-SUFFIX,api.stentvessel.top
-DOMAIN-SUFFIX,to-ytoo.xyz
-DOMAIN-SUFFIX,y-too.com
+  - DOMAIN-SUFFIX,api.stentvessel.top
+  - DOMAIN-SUFFIX,to-ytoo.xyz
+  - DOMAIN-SUFFIX,y-too.com
 # Kuromis 
-DOMAIN,kuromisubs.shop
+  - DOMAIN,kuromisubs.shop
 # 大湾区
-DOMAIN,dawanqukun.top
+  - DOMAIN,dawanqukun.top
 # 扑克云
-DOMAIN-SUFFIX,pokeryun.link
-DOMAIN-SUFFIX,huawei-cloud.shop
+  - DOMAIN-SUFFIX,pokeryun.link
+  - DOMAIN-SUFFIX,huawei-cloud.shop
 # PocketCasts
-DOMAIN-KEYWORD,pocketcasts
+  - DOMAIN-KEYWORD,pocketcasts
 # MoneyWiz
-DOMAIN-SUFFIX,wiz.money
-DOMAIN-SUFFIX,syncbits.com
-DOMAIN-SUFFIX,clearbit.com
-DOMAIN-SUFFIX,faviconkit.com
+  - DOMAIN-SUFFIX,wiz.money
+  - DOMAIN-SUFFIX,syncbits.com
+  - DOMAIN-SUFFIX,clearbit.com
+  - DOMAIN-SUFFIX,faviconkit.com
 # OCBC
-DOMAIN-KEYWORD,ocbc
-DOMAIN-SUFFIX,ocbc.com
-DOMAIN-SUFFIX,omtrdc.net
-DOMAIN-SUFFIX,everesttech.net
+  - DOMAIN-KEYWORD,ocbc
+  - DOMAIN-SUFFIX,ocbc.com
+  - DOMAIN-SUFFIX,omtrdc.net
+  - DOMAIN-SUFFIX,everesttech.net
 # WISE
-DOMAIN-SUFFIX,wise.com
-DOMAIN-SUFFIX,braze.eu
+  - DOMAIN-SUFFIX,wise.com
+  - DOMAIN-SUFFIX,braze.eu
 # 博客
-DOMAIN-SUFFIX,itangtalk.com
-DOMAIN-SUFFIX,duyaoss.com
+  - DOMAIN-SUFFIX,itangtalk.com
+  - DOMAIN-SUFFIX,duyaoss.com
 # 其他
-DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,openexchangerates.org
+  - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,openexchangerates.org
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,cloudflare.com
