@@ -34,6 +34,8 @@ payload:
 # 博客
   - DOMAIN-SUFFIX,itangtalk.com
   - DOMAIN-SUFFIX,duyaoss.com
+# flightradar24
+  - DOMAIN-SUFFIX,flightradar24.com
 # 其他
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,openexchangerates.org
