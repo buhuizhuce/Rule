@@ -35,6 +35,8 @@ DOMAIN-SUFFIX,itangtalk.com
 DOMAIN-SUFFIX,duyaoss.com
 # flightradar24
 DOMAIN-SUFFIX,flightradar24.com
+# RevenueCat
+DOMAIN-SUFFIX,revenuecat.com
 # 其他
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,openexchangerates.org
@@ -42,3 +44,4 @@ DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,twelvedata.com
 DOMAIN-SUFFIX,raw.ananaskop.com
+
