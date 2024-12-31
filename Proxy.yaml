@@ -36,6 +36,8 @@ payload:
   - DOMAIN-SUFFIX,duyaoss.com
 # flightradar24
   - DOMAIN-SUFFIX,flightradar24.com
+# RevenueCat
+  - DOMAIN-SUFFIX,revenuecat.com
 # 其他
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,openexchangerates.org
