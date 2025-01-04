@@ -34,7 +34,7 @@ payload:
 # 博客
   - DOMAIN-SUFFIX,itangtalk.com
   - DOMAIN-SUFFIX,duyaoss.com
-  
+  - DOMAIN-SUFFIX,kelee.one
 # 播客
   - DOMAIN-SUFFIX,i.typlog.com
 # flightradar24
