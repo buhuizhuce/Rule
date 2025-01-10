@@ -42,6 +42,8 @@ DOMAIN-SUFFIX,i.typlog.com
 DOMAIN-SUFFIX,flightradar24.com
 # RevenueCat
 DOMAIN-SUFFIX,api-paywalls.revenuecat.com
+# Reflix
+DOMAIN-SUFFIX,image.reflix.top
 # 其他
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,openexchangerates.org
