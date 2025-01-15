@@ -1,4 +1,7 @@
 payload:
+# 1password
+  - DOMAIN-SUFFIX,1passwordservices.com
+  - DOMAIN-SUFFIX,1passwordusercontent.com
 # eM Client
   - DOMAIN-SUFFIX,emclient.com
   - DOMAIN-KEYWORD,emclient
@@ -43,6 +46,8 @@ payload:
   - DOMAIN-SUFFIX,api-paywalls.revenuecat.com
 # Reflix
   - DOMAIN-SUFFIX,image.reflix.top
+# Fileball
+  - DOMAIN-SUFFIX,fileball.app
 # 其他
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,openexchangerates.org
@@ -50,3 +55,4 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,twelvedata.com
   - DOMAIN-SUFFIX,raw.ananaskop.com
+  - DOMAIN-SUFFIX,api.rc-backup.com
