@@ -237,8 +237,12 @@ payload:
   - IP-CIDR,36.250.241.230/32,no-resolve
   - IP-CIDR,221.195.228.118/32,no-resolve
   
+# 代理域名  
 # Nxtitally
   - DOMAIN-SUFFIX,uzwbdv.xyz
+  # AmyTelecom
+  - DOMAIN-SUFFIX,bit.ly/4bhQ3WX
+  - DOMAIN-SUFFIX,sub.kwk7thgc.com    #订阅
 # Apple
 #  - DOMAIN-SUFFIX,app-analytics-services.com
 # OCBC
@@ -294,11 +298,13 @@ payload:
   - DOMAIN-SUFFIX,multilingual-volc.com
 # i茅台
   - DOMAIN-SUFFIX,puata.info.com
-# 咸鱼
+# 闲鱼
   - DOMAIN-SUFFIX,effirst.com
   - DOMAIN-SUFFIX,huishoubao.com
 # 东方福利网
   - DOMAIN-SUFFIX,dongfangfuli.com
+# 尚购超市
+  - DOMAIN-SUFFIX,easyo2o.net
 # 中石油
   - DOMAIN-SUFFIX,kunlunjyk.com
 # 中通快递
@@ -317,6 +323,11 @@ payload:
   - DOMAIN-SUFFIX,meta.appinn.net
 # 阿里云
   - DOMAIN-SUFFIX,aliyundrive.net
-
+# 海汽e行
+  - DOMAIN-SUFFIX,0898hq.com
+# 极光推送
+  - DOMAIN-SUFFIX,easytomessage.com
+#  Dove Nest影视
+  - DOMAIN-SUFFIX,doven.tv
 # 其他
 
