@@ -235,8 +235,12 @@ IP-CIDR,98.98.121.0/24,no-resolve
 IP-CIDR,36.250.241.230/32,no-resolve
 IP-CIDR,221.195.228.118/32,no-resolve
 
+# 代理域名
 # Nxtitally
 DOMAIN-SUFFIX,uzwbdv.xyz
+# AmyTelecom
+DOMAIN-SUFFIX,bit.ly/4bhQ3WX
+DOMAIN-SUFFIX,sub.kwk7thgc.com    //订阅
 # Apple
 #DOMAIN-SUFFIX,app-analytics-services.com
 # 长桥证券
