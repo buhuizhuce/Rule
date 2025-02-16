@@ -240,7 +240,7 @@ IP-CIDR,221.195.228.118/32,no-resolve
 DOMAIN-SUFFIX,uzwbdv.xyz
 # AmyTelecom
 DOMAIN-SUFFIX,bit.ly/4bhQ3WX
-DOMAIN-SUFFIX,sub.kwk7thgc.com    //订阅
+DOMAIN-SUFFIX,sub.kwk7thgc.com    #订阅
 # Apple
 #DOMAIN-SUFFIX,app-analytics-services.com
 # 长桥证券
@@ -292,7 +292,7 @@ DOMAIN-SUFFIX,mi-fds.com
 DOMAIN-SUFFIX,multilingual-volc.com
 # i茅台
 DOMAIN-SUFFIX,puata.info.com
-# 咸鱼
+# 闲鱼
 DOMAIN-SUFFIX,effirst.com
 DOMAIN-SUFFIX,huishoubao.com
 # 东方福利网
