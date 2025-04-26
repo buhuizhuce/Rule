@@ -5,7 +5,8 @@ DOMAIN-SUFFIX,1passwordusercontent.com
 DOMAIN-SUFFIX,emclient.com
 DOMAIN-KEYWORD,emclient
 # Follow 
-DOMAIN-SUFFIX,api.follow.is
+DOMAIN-SUFFIX,follow.is
+
 # 八达通
 DOMAIN-KEYWORD,octopus
 # 黄页
@@ -71,3 +72,4 @@ DOMAIN-SUFFIX,api.rc-backup.com
 DOMAIN,www.sirzhang.com
 DOMAIN,www.paytr.com
 DOMAIN,www.oyunfor.com
+DOMAIN-SUFFIX,arin.net
