@@ -238,9 +238,7 @@ IP-CIDR,221.195.228.118/32,no-resolve
 # 代理域名
 # Nxtitally
 DOMAIN-SUFFIX,uzwbdv.xyz
-# AmyTelecom
-DOMAIN-SUFFIX,bit.ly/4bhQ3WX
-DOMAIN-SUFFIX,sub.kwk7thgc.com    #订阅
+
 # Apple
 #DOMAIN-SUFFIX,app-analytics-services.com
 # 长桥证券
@@ -321,7 +319,5 @@ DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,0898hq.com
 # 极光推送
 DOMAIN-SUFFIX,easytomessage.com
-#  Dove Nest影视
-#DOMAIN-SUFFIX,doven.tv
 # 其他
 
