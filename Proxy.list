@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,1passwordusercontent.com
 # eM Client
 DOMAIN-SUFFIX,emclient.com
 DOMAIN-KEYWORD,emclient
+
 # Follow 
 DOMAIN-SUFFIX,follow.is
 
@@ -77,3 +78,5 @@ DOMAIN,www.paytr.com
 DOMAIN,www.oyunfor.com
 DOMAIN-SUFFIX,arin.net
 DOMAIN-SUFFIX,u.expo.dev
+DOMAIN-SUFFIX,newrelic.com
+DOMAIN-SUFFIX,optimizely.com
