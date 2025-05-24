@@ -73,9 +73,9 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,twelvedata.com
 DOMAIN-SUFFIX,raw.ananaskop.com
 DOMAIN-SUFFIX,api.rc-backup.com
-DOMAIN,www.sirzhang.com
-DOMAIN,www.paytr.com
-DOMAIN,www.oyunfor.com
+DOMAIN-SUFFIX,sirzhang.com
+DOMAIN-SUFFIX,paytr.com
+DOMAIN-SUFFIX,oyunfor.com
 DOMAIN-SUFFIX,arin.net
 DOMAIN-SUFFIX,u.expo.dev
 DOMAIN-SUFFIX,newrelic.com
