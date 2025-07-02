@@ -4,10 +4,8 @@ DOMAIN-SUFFIX,1passwordusercontent.com
 # eM Client
 DOMAIN-SUFFIX,emclient.com
 DOMAIN-KEYWORD,emclient
-
 # Follow 
 DOMAIN-SUFFIX,follow.is
-
 # 八达通
 DOMAIN-KEYWORD,octopus
 # 黄页
@@ -60,6 +58,17 @@ DOMAIN-SUFFIX,reflix.top
 # Fileball
 DOMAIN,workers.fileball.app
 DOMAIN-SUFFIX,fileball.app
+# Forward相关
+DOMAIN-SUFFIX,javday.app
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,javrate.com
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,media-imdb.com
+DOMAIN-SUFFIX,tmdb.org
 # Spark
 DOMAIN-SUFFIX,sparkmailapp.com
 DOMAIN-SUFFIX,mcusercontent.com
