@@ -10,7 +10,14 @@ DOMAIN-SUFFIX,follow.is
 DOMAIN-KEYWORD,octopus
 # 黄页
 DOMAIN-SUFFIX,vcards.metowolf.com
-# 代理 
+## 代理 
+# AmyTelecom
+DOMAIN-SUFFIX,bit.ly/4bhQ3WX
+DOMAIN-SUFFIX,sub.kwk7thgc.com    #订阅
+DOMAIN-SUFFIX,amytele.net   #AmyTelecom
+DOMAIN-SUFFIX,bit.ly/3Rl9lla   #AmyTelecom
+DOMAIN-SUFFIX,bit.ly/3xIKG4w   #AmyTelecom
+DOMAIN-SUFFIX,huacloud.net   # FlowerCloud
 DOMAIN-SUFFIX,api.stentvessel.top  # Ytoo
 DOMAIN-SUFFIX,to-ytoo.xyz  # Ytoo
 DOMAIN-SUFFIX,y-too.com  # Ytoo
@@ -19,12 +26,6 @@ DOMAIN,dawanqukun.top  # 大湾区
 DOMAIN,oceancloud.asia  # 云海互联
 DOMAIN-SUFFIX,pokeryun.link  # 扑克云
 DOMAIN-SUFFIX,huawei-cloud.shop  # 扑克云
-# AmyTelecom
-DOMAIN-SUFFIX,bit.ly/4bhQ3WX
-DOMAIN-SUFFIX,sub.kwk7thgc.com    #订阅
-DOMAIN-SUFFIX,amytele.net   #AmyTelecom
-DOMAIN-SUFFIX,bit.ly/3Rl9lla   #AmyTelecom
-DOMAIN-SUFFIX,bit.ly/3xIKG4w   #AmyTelecom
 # PocketCasts
 DOMAIN-KEYWORD,pocketcasts
 # MoneyWiz
