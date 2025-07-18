@@ -235,10 +235,10 @@ IP-CIDR,98.98.121.0/24,no-resolve
 IP-CIDR,36.250.241.230/32,no-resolve
 IP-CIDR,221.195.228.118/32,no-resolve
 
-# 代理域名
-# Nxtitally
-DOMAIN-SUFFIX,uzwbdv.xyz
-
+# 代理
+DOMAIN-SUFFIX,uzwbdv.xyz    # Nxtitally
+DOMAIN-SUFFIX,huacloud.net   # FlowerCloud
+DOMAIN-SUFFIX,kwk7thgc.com    # AmyTelecom
 # Apple
 #DOMAIN-SUFFIX,app-analytics-services.com
 # 长桥证券
