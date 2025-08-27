@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,vcards.metowolf.com
 DOMAIN-SUFFIX,amytele.net   #AmyTelecom
 #DOMAIN-SUFFIX,bit.ly/3Rl9lla   #AmyTelecom
 #DOMAIN-SUFFIX,bit.ly/3xIKG4w   #AmyTelecom
+DOMAIN-SUFFIX,api-huacloud.net   # FlowerCloud
 DOMAIN-SUFFIX,huacloud.net   # FlowerCloud
 DOMAIN-SUFFIX,flower.yt   # FlowerCloud
 DOMAIN-SUFFIX,api.stentvessel.top  # Ytoo
@@ -88,3 +89,4 @@ DOMAIN-SUFFIX,arin.net
 DOMAIN-SUFFIX,u.expo.dev
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,optimizely.com
+
