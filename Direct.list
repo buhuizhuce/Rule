@@ -238,6 +238,7 @@ IP-CIDR,221.195.228.118/32,no-resolve
 # 代理
 DOMAIN-SUFFIX,uzwbdv.xyz    # Nxtitally
 DOMAIN-SUFFIX,huacloud.net   # FlowerCloud
+DOMAIN-SUFFIX,api.xmancdn.net   # FlowerCloud
 DOMAIN-SUFFIX,kwk7thgc.com    # AmyTelecom
 # Apple
 #DOMAIN-SUFFIX,app-analytics-services.com
@@ -324,4 +325,5 @@ DOMAIN-SUFFIX,easytomessage.com
 # Forward
 DOMAIN-SUFFIX,vvebo.vip
 # 其他
+
 
