@@ -1,9 +1,9 @@
 import sys
 
-def parse_list_file(input_path, output_path, default_policy="Direct"):
+def parse_list_file(input_path, output_path):
     """
     将 .list 文件转换为 Clash YAML 格式
-    所有规则统一使用指定策略组（默认 Direct）
+    输出为纯规则集，不包含策略组名
     注释行保留为 YAML 注释
     """
     with open(input_path, "r", encoding="utf-8") as f:
@@ -16,6 +16,7 @@ def parse_list_file(input_path, output_path, default_policy="Direct"):
         if not line:
             continue
 
+        # 注释行
         if line.startswith("#"):
             yaml_lines.append(f"  {line}")
             continue
@@ -31,7 +32,8 @@ def parse_list_file(input_path, output_path, default_policy="Direct"):
         else:
             rule_type = "DOMAIN"
 
-        yaml_lines.append(f"  - {rule_type},{line},{default_policy}")
+        # 纯规则，不带策略组
+        yaml_lines.append(f"  - {rule_type},{line}")
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n".join(yaml_lines))
