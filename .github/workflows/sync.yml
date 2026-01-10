@@ -1,0 +1,44 @@
+name: Sync Direct List to Clash YAML
+
+# 触发条件：当 main 分支有 push 或每 6 小时自动运行一次
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 */6 * * *"  # 每 6 小时触发一次
+
+# 公共仓库只需声明写入权限即可正常 push
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # 使用 GitHub 提供的 Ubuntu 虚拟机
+
+    steps:
+      # 1. 拉取仓库代码
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. 安装 Python 环境
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      # 3. 执行转换脚本：将 Direct.list → Direct.yaml
+      - name: Convert Direct.list to Clash YAML
+        run: |
+          python "scripts/list_to_clash_yaml.py" Direct.list Direct.yaml
+
+      # 4. 自动提交并推送生成的 Direct.yaml 文件
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions[bot]
+          author_email: github-actions[bot]@users.noreply.github.com
+          message: "Auto-generate Direct.yaml from Direct.list"
+          add: Direct.yaml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
