@@ -1,16 +1,18 @@
 name: 同步 Surge 规则集为 Clash YAML
 
 # 触发条件：
-# 1. main 分支有 push
-# 2. 每 6 小时定时执行一次（用于补齐缺失的 yaml）
+# 1. main 分支有 push 时自动运行
+# 2. 每 6 小时定时运行一次（用于补齐缺失的 yaml）
+# 3. 支持在 GitHub Actions 页面手动点击运行
 on:
   push:
     branches:
       - main
   schedule:
     - cron: "0 */6 * * *"
+  workflow_dispatch:
 
-# 公共 / 私有仓库均需写入权限，用于提交生成的 yaml 文件
+# 需要写入权限，用于提交生成的 yaml 文件
 permissions:
   contents: write
 
@@ -30,14 +32,14 @@ jobs:
           python-version: "3.x"
 
       # 3️⃣ 执行转换脚本
-      #    脚本会自动遍历仓库中所有 .list 文件
-      #    并在同目录生成 / 更新同名的 .yaml（Clash rule-provider）
+      #    自动遍历仓库中所有 .list 文件
+      #    在同目录生成 / 更新同名的 .yaml
       - name: 转换 Surge .list 为 Clash .yaml
         run: |
           python scripts/list_to_clash_yaml.py
 
-      # 4️⃣ 自动提交并推送所有生成或更新的 yaml 文件
-      #    如果本次运行没有任何文件变化，不会产生提交
+      # 4️⃣ 自动提交并推送生成或更新的 yaml 文件
+      #    如果本次运行没有文件变化，不会产生提交
       - name: 提交并推送生成的 YAML
         uses: EndBug/add-and-commit@v9
         with:
