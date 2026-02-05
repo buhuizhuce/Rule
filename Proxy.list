@@ -1,15 +1,3 @@
-# 1password
-DOMAIN-SUFFIX,1passwordservices.com
-DOMAIN-SUFFIX,1passwordusercontent.com
-# eM Client
-DOMAIN-SUFFIX,emclient.com
-DOMAIN-KEYWORD,emclient
-# Follow 
-DOMAIN-SUFFIX,follow.is
-# 八达通
-DOMAIN-KEYWORD,octopus
-# 黄页
-DOMAIN-SUFFIX,vcards.metowolf.com
 ## 代理 
 #DOMAIN-SUFFIX,sub.kwk7thgc.com    #订阅
 DOMAIN-SUFFIX,amytele.net   #AmyTelecom
@@ -26,8 +14,29 @@ DOMAIN,dawanqukun.top  # 大湾区
 DOMAIN,oceancloud.asia  # 云海互联
 DOMAIN-SUFFIX,pokeryun.link  # 扑克云
 DOMAIN-SUFFIX,huawei-cloud.shop  # 扑克云
+
+# 黄页
+DOMAIN-SUFFIX,vcards.metowolf.com
+# 1password
+DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-SUFFIX,1passwordusercontent.com
+# eM Client
+DOMAIN-SUFFIX,emclient.com
+DOMAIN-KEYWORD,emclient
+# Spark
+DOMAIN-SUFFIX,sparkmailapp.com
+DOMAIN-SUFFIX,mcusercontent.com
+DOMAIN-SUFFIX,actonsoftware.com
+DOMAIN-SUFFIX,emailimagecdnr8z1.com
+DOMAIN-SUFFIX,wyndhamhotels.com
+# Follow 
+DOMAIN-SUFFIX,follow.is
+# 八达通
+DOMAIN-KEYWORD,octopus
 # PocketCasts
 DOMAIN-KEYWORD,pocketcasts
+# 播客
+DOMAIN-SUFFIX,i.typlog.com
 # MoneyWiz
 DOMAIN-SUFFIX,wiz.money
 DOMAIN-SUFFIX,syncbits.com
@@ -45,8 +54,6 @@ DOMAIN-SUFFIX,braze.eu
 DOMAIN-SUFFIX,itangtalk.com
 DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-SUFFIX,kelee.one
-# 播客
-DOMAIN-SUFFIX,i.typlog.com
 # flightradar24
 DOMAIN-SUFFIX,flightradar24.com
 DOMAIN-SUFFIX,fr24.com
@@ -57,23 +64,6 @@ DOMAIN-SUFFIX,reflix.top
 # Fileball
 DOMAIN,workers.fileball.app
 DOMAIN-SUFFIX,fileball.app
-# Forward相关
-DOMAIN-SUFFIX,javday.app
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,xvideos-cdn.com
-DOMAIN-SUFFIX,91porn.com
-DOMAIN-SUFFIX,jable.tv
-DOMAIN-SUFFIX,javrate.com
-DOMAIN-SUFFIX,imdb.com
-DOMAIN-KEYWORD,imdb
-DOMAIN-SUFFIX,tmdb.org
-# Spark
-DOMAIN-SUFFIX,sparkmailapp.com
-DOMAIN-SUFFIX,mcusercontent.com
-DOMAIN-SUFFIX,actonsoftware.com
-DOMAIN-SUFFIX,emailimagecdnr8z1.com
-DOMAIN-SUFFIX,wyndhamhotels.com
 # 其他
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,openexchangerates.org
@@ -89,4 +79,5 @@ DOMAIN-SUFFIX,arin.net
 DOMAIN-SUFFIX,u.expo.dev
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,optimizely.com
+
 
