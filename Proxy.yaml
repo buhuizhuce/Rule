@@ -79,3 +79,4 @@ payload:
   - DOMAIN-SUFFIX,u.expo.dev
   - DOMAIN-SUFFIX,newrelic.com
   - DOMAIN-SUFFIX,optimizely.com
+  - DOMAIN-SUFFIX,sub.scpnb.top
