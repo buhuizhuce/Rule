@@ -1,6 +1,8 @@
-name: Sync Direct List to Clash YAML
+name: 同步 Surge 规则集为 Clash YAML
 
-# 触发条件：main 分支 push 或每 6 小时自动运行
+# 触发条件：
+# 1. main 分支有 push
+# 2. 每 6 小时定时执行一次（用于补齐缺失的 yaml）
 on:
   push:
     branches:
@@ -8,7 +10,7 @@ on:
   schedule:
     - cron: "0 */6 * * *"
 
-# 公共仓库只需声明写入权限即可正常 push
+# 公共 / 私有仓库均需写入权限，用于提交生成的 yaml 文件
 permissions:
   contents: write
 
@@ -17,28 +19,31 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. 拉取仓库代码
-      - name: Checkout repository
+      # 1️⃣ 拉取仓库代码
+      - name: 拉取仓库
         uses: actions/checkout@v4
 
-      # 2. 安装 Python 环境
-      - name: Set up Python
+      # 2️⃣ 设置 Python 运行环境
+      - name: 设置 Python 环境
         uses: actions/setup-python@v4
         with:
           python-version: "3.x"
 
-      # 3. 执行转换脚本：Direct.list → Direct.yaml
-      - name: Convert Direct.list to Clash YAML
+      # 3️⃣ 执行转换脚本
+      #    脚本会自动遍历仓库中所有 .list 文件
+      #    并在同目录生成 / 更新同名的 .yaml（Clash rule-provider）
+      - name: 转换 Surge .list 为 Clash .yaml
         run: |
-          python "scripts/list_to_clash_yaml.py" Direct.list Direct.yaml
+          python scripts/list_to_clash_yaml.py
 
-      # 4. 自动提交并推送生成的 Direct.yaml
-      - name: Commit and push changes
+      # 4️⃣ 自动提交并推送所有生成或更新的 yaml 文件
+      #    如果本次运行没有任何文件变化，不会产生提交
+      - name: 提交并推送生成的 YAML
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions[bot]
           author_email: github-actions[bot]@users.noreply.github.com
-          message: "Auto-generate Direct.yaml from Direct.list"
-          add: Direct.yaml
+          message: "自动生成 Clash YAML（来自 Surge .list）"
+          add: "*.yaml"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
