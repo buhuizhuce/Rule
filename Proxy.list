@@ -8,7 +8,6 @@ DOMAIN-SUFFIX,huacloud.net   # FlowerCloud
 DOMAIN-SUFFIX,flower.yt   # FlowerCloud
 DOMAIN-SUFFIX,api.stentvessel.top  # Ytoo
 DOMAIN-SUFFIX,to-ytoo.xyz  # Ytoo
-DOMAIN-SUFFIX,y-too.com  # Ytoo
 DOMAIN,kuromisubs.shop  # Kuromis 
 DOMAIN,dawanqukun.top  # 大湾区
 DOMAIN,oceancloud.asia  # 云海互联
@@ -80,6 +79,7 @@ DOMAIN-SUFFIX,u.expo.dev
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,sub.scpnb.top
+
 
 
 
