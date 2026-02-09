@@ -244,6 +244,7 @@ payload:
   - DOMAIN-SUFFIX,y-too.net   # Ytoo
   - DOMAIN-SUFFIX,to-ytoo.xyz   # Ytoo
   - DOMAIN,stentvessel.shop   # Ytoo
+  - DOMAIN-SUFFIX,4983c690743e.ai-163cdn.com   # Ytoo
   # Apple
   #DOMAIN-SUFFIX,app-analytics-services.com
   # 长桥证券
