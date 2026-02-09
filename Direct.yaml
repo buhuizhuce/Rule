@@ -240,6 +240,7 @@ payload:
   - DOMAIN-SUFFIX,huacloud.net   # FlowerCloud
   - DOMAIN-SUFFIX,api.xmancdn.net   # FlowerCloud
   - DOMAIN-SUFFIX,kwk7thgc.com    # AmyTelecom
+  - DOMAIN-SUFFIX,y-too.com   # Ytoo
   # Apple
   #DOMAIN-SUFFIX,app-analytics-services.com
   # 长桥证券
