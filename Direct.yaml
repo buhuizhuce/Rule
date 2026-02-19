@@ -332,4 +332,6 @@ payload:
   # 狂野飙车
   - DOMAIN-KEYWORD,asphalt
   - DOMAIN-SUFFIX,gameloft.com
+  # Dpeak Emby面板
+  - DOMAIN-SUFFIX,panel.bwihz.cn
   # 其他
