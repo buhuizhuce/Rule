@@ -13,6 +13,7 @@ DOMAIN,dawanqukun.top  # 大湾区
 DOMAIN,oceancloud.asia  # 云海互联
 DOMAIN-SUFFIX,pokeryun.link  # 扑克云
 DOMAIN-SUFFIX,huawei-cloud.shop  # 扑克云
+DOMAIN-SUFFIX,llyh.cc  # 流量银行
 
 # 黄页
 DOMAIN-SUFFIX,vcards.metowolf.com
@@ -79,6 +80,7 @@ DOMAIN-SUFFIX,u.expo.dev
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,sub.scpnb.top
+
 
 
 
