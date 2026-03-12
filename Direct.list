@@ -1,6 +1,12 @@
 # 工作
 DOMAIN-SUFFIX,hdec.com
 DOMAIN-SUFFIX,powerchina.cn
+# mail
+DOMAIN-SUFFIX,imap.qq.com
+DOMAIN-SUFFIX,smtp.qq.com
+DOMAIN-SUFFIX,imap.exmail.qq.com
+DOMAIN-SUFFIX,smtp.exmail.qq.com
+DOMAIN-SUFFIX,exmail.qq.com
 # Feishu
 DOMAIN-SUFFIX,feishu.net
 DOMAIN-SUFFIX,feishu.cn
@@ -333,6 +339,7 @@ DOMAIN-SUFFIX,vvebo.vip
 DOMAIN-KEYWORD,asphalt
 DOMAIN-SUFFIX,gameloft.com
 # 其他
+
 
 
 
