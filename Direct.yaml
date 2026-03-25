@@ -338,4 +338,8 @@ payload:
   # 狂野飙车
   - DOMAIN-KEYWORD,asphalt
   - DOMAIN-SUFFIX,gameloft.com
+  # chrome书签
+  - DOMAIN-SUFFIX,52pojie.cn     //吾爱破解
+  - DOMAIN-SUFFIX,mjtd.com      //明经CAD社区
+  - DOMAIN-SUFFIX,bbs.biaozhuns.com   //标准网
   # 其他
