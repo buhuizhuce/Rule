@@ -243,6 +243,7 @@ IP-CIDR,221.195.228.118/32,no-resolve
 
 # 代理
 DOMAIN-SUFFIX,uzwbdv.xyz    # Nxtitally
+DOMAIN,api-huacloud.net     # FlowerCloud
 DOMAIN-SUFFIX,huacloud.net   # FlowerCloud
 DOMAIN-SUFFIX,api.xmancdn.net   # FlowerCloud
 DOMAIN-SUFFIX,kwk7thgc.com    # AmyTelecom
