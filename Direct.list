@@ -338,8 +338,8 @@ DOMAIN-SUFFIX,easytomessage.com
 # Forward
 DOMAIN-SUFFIX,vvebo.vip
 # 狂野飙车
-#DOMAIN-KEYWORD,asphalt
-#DOMAIN-SUFFIX,gameloft.com
+DOMAIN-KEYWORD,asphalt
+DOMAIN-SUFFIX,gameloft.com
 # chrome书签
 DOMAIN-SUFFIX,52pojie.cn
 DOMAIN-SUFFIX,mjtd.com
