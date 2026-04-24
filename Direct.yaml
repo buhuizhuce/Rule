@@ -58,9 +58,6 @@ payload:
   - DOMAIN-SUFFIX,baseopendev.com
   - DOMAIN-SUFFIX,bytevcloud.com
   - DOMAIN-SUFFIX,effect.snssdk.com
-  - DOMAIN-SUFFIX,lf3-effectcdn-tos.byteeffecttos.com
-  - DOMAIN-SUFFIX,lf6-effectcdn-tos.byteeffecttos.com
-  - DOMAIN-SUFFIX,lf9-effectcdn-tos.byteeffecttos.com
   - IP-CIDR,39.105.254.0/24
   - IP-CIDR,39.105.247.0/25
   - IP-CIDR,47.113.76.128/25
@@ -394,7 +391,7 @@ payload:
   - DOMAIN-SUFFIX,fog.vicc.wang    #迷雾资料库
   - DOMAIN-SUFFIX,passkit.com    #wallet票据制作
   - DOMAIN-SUFFIX,www.passsource.com    #wallet票据制作
-  - DOMAIN,ipostalmail.net   #转运平台
+  - DOMAIN-SUFFIX,ipostalmail.net   #转运平台
   # 影音相关
   - DOMAIN-SUFFIX,yinfans.me
   - DOMAIN-SUFFIX,pan666.net
