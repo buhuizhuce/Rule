@@ -257,14 +257,13 @@ payload:
   - DOMAIN,api-huacloud.net     # FlowerCloud
   - DOMAIN-SUFFIX,huacloud.net   # FlowerCloud
   - DOMAIN-SUFFIX,api.xmancdn.net   # FlowerCloud
-  - DOMAIN-SUFFIX,kwk7thgc.com    # AmyTelecom
   - DOMAIN-SUFFIX,y-too.com   # Ytoo
   - DOMAIN-SUFFIX,y-too.net   # Ytoo
   - DOMAIN-SUFFIX,to-ytoo.xyz   # Ytoo
   - DOMAIN,stentvessel.shop   # Ytoo
   - DOMAIN,4983c690743e.ai-163cdn.com   # Ytoo
   - DOMAIN-SUFFIX,dpenly.org
-  - DOMAIN-SUFFIX,llyh.cc
+  - DOMAIN-SUFFIX,llyh.cc   #流量银行
   # Apple
   #DOMAIN-SUFFIX,app-analytics-services.com
   # 长桥证券
