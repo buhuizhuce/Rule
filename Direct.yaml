@@ -1,7 +1,23 @@
 payload:
-  # 工作
+  # 工作相关
   - DOMAIN-SUFFIX,hdec.com
   - DOMAIN-SUFFIX,powerchina.cn
+  - IP-CIDR,10.215.140.63/32
+  - DOMAIN-SUFFIX,mjtd.com
+  - DOMAIN-SUFFIX,bbs.biaozhuns.com
+  - DOMAIN-SUFFIX,biaozhun.org
+  - DOMAIN-SUFFIX,docin.com
+  - DOMAIN-SUFFIX,cqvip.com
+  - DOMAIN-SUFFIX,ilovepdf.com
+  - DOMAIN-SUFFIX,zhulong.com
+  - DOMAIN-SUFFIX,softhome.cc
+  - DOMAIN-SUFFIX,6tor.com
+  - DOMAIN-SUFFIX,book118.com
+  - DOMAIN-SUFFIX,buildhr.com
+  - DOMAIN-SUFFIX,chinaqking.com
+  - DOMAIN-SUFFIX,co188.com
+  - DOMAIN-SUFFIX,23tm.com
+  - DOMAIN-SUFFIX,doc88.com
   # mail
   - DOMAIN-SUFFIX,imap.qq.com
   - DOMAIN-SUFFIX,smtp.qq.com
@@ -40,13 +56,11 @@ payload:
   - DOMAIN-SUFFIX,feishupkg.com
   - DOMAIN-SUFFIX,feelgood.cn
   - DOMAIN-SUFFIX,baseopendev.com
-  - DOMAIN-SUFFIX,bytedance.com
   - DOMAIN-SUFFIX,bytevcloud.com
   - DOMAIN-SUFFIX,effect.snssdk.com
   - DOMAIN-SUFFIX,lf3-effectcdn-tos.byteeffecttos.com
   - DOMAIN-SUFFIX,lf6-effectcdn-tos.byteeffecttos.com
   - DOMAIN-SUFFIX,lf9-effectcdn-tos.byteeffecttos.com
-  - DOMAIN-KEYWORD,feishu
   - IP-CIDR,39.105.254.0/24
   - IP-CIDR,39.105.247.0/25
   - IP-CIDR,47.113.76.128/25
@@ -117,7 +131,6 @@ payload:
   - IP-CIDR,124.95.186.0/24
   - IP-CIDR,123.184.96.0/24
   - IP-CIDR,34.92.178.0/24
-  - IP-CIDR,34.92.178.0/25
   - IP-CIDR,156.59.196.0/24
   - IP-CIDR,207.211.211.0/24
   - IP-CIDR,3.127.194.0/25
@@ -253,6 +266,8 @@ payload:
   - DOMAIN-SUFFIX,to-ytoo.xyz   # Ytoo
   - DOMAIN,stentvessel.shop   # Ytoo
   - DOMAIN,4983c690743e.ai-163cdn.com   # Ytoo
+  - DOMAIN-SUFFIX,dpenly.org
+  - DOMAIN-SUFFIX,llyh.cc
   # Apple
   #DOMAIN-SUFFIX,app-analytics-services.com
   # 长桥证券
@@ -264,7 +279,6 @@ payload:
   - DOMAIN-SUFFIX,zhitongcaijing.com
   - DOMAIN-SUFFIX,go-mpulse.net
   - DOMAIN-SUFFIX,online-metrix.net
-  - DOMAIN-SUFFIX,akstat.io
   - DOMAIN-SUFFIX,ushknews.com
   - DOMAIN-SUFFIX,gov.sg
   # 星展银行
@@ -327,21 +341,66 @@ payload:
   - DOMAIN-SUFFIX,staybrowser.com
   - DOMAIN-SUFFIX,stayfork.app
   - DOMAIN-SUFFIX,greasyfork.org
-  # 小众软件
-  - DOMAIN-SUFFIX,meta.appinn.net
   # 阿里云
   - DOMAIN-SUFFIX,aliyundrive.net
   # 海汽e行
   - DOMAIN-SUFFIX,0898hq.com
-  # 极光推送
-  - DOMAIN-SUFFIX,easytomessage.com
   # Forward
   - DOMAIN-SUFFIX,vvebo.vip
   # 狂野飙车
   - DOMAIN-KEYWORD,asphalt
   - DOMAIN-SUFFIX,gameloft.com
-  # chrome书签
-  - DOMAIN-SUFFIX,52pojie.cn
-  - DOMAIN-SUFFIX,mjtd.com
-  - DOMAIN-SUFFIX,bbs.biaozhuns.com
+  # 礼品卡购买
+  - DOMAIN-SUFFIX,oyunfor.com
+  - DOMAIN-SUFFIX,fastspring.com
+  - DOMAIN-SUFFIX,colormango.com
+  # 博客
+  - DOMAIN-SUFFIX,divineengine.net
+  - DOMAIN-SUFFIX,51zxw.net
+  - DOMAIN-SUFFIX,iyyh.net
+  - DOMAIN-SUFFIX,kelu.org
+  - DOMAIN-SUFFIX,zfrontier.com
+  - DOMAIN-SUFFIX,kejileida.net
+  - DOMAIN-SUFFIX,hackfang.me
+  - DOMAIN-SUFFIX,skk.moe
+  - DOMAIN-SUFFIX,fdeer.com
+  - DOMAIN-SUFFIX,song.al
+  - DOMAIN-SUFFIX,itangtalk.com
+  # 代理软件相关
+  - DOMAIN-SUFFIX,surge.qingr.moe
+  - DOMAIN-SUFFIX,clashparty.org
+  - DOMAIN-SUFFIX,anti-ad.net            #去广告规则
+  # 软件相关
+  - DOMAIN-SUFFIX,appstoreprice.org   #App Store全球价格查询
+  - DOMAIN-SUFFIX,remove.bg    #在线修图
+  - DOMAIN-SUFFIX,convertio.co   #文件转换器
+  - DOMAIN-SUFFIX,appinn.com
+  - DOMAIN-SUFFIX,appinn.net
+  - DOMAIN-SUFFIX,apphot.cc
+  - DOMAIN-SUFFIX,ghpym.com
+  - DOMAIN-SUFFIX,tmioe.com
+  - DOMAIN-SUFFIX,haxnode.net
+  - DOMAIN-SUFFIX,www.0daydown.com
+  - DOMAIN-SUFFIX,zhenxz.com
+  - DOMAIN-SUFFIX,www.dayanzai.me
+  - DOMAIN-SUFFIX,ibeta.me
+  - DOMAIN-SUFFIX,sysmini.com
+  - DOMAIN-SUFFIX,zzzmh.cn
+  - DOMAIN-SUFFIX,umm.js.org
+  - DOMAIN-SUFFIX,sd173.com
+  - DOMAIN-SUFFIX,macxf.com
+  - DOMAIN-SUFFIX,drvsky.com
+  - DOMAIN-SUFFIX,gndown.com
+  - DOMAIN-SUFFIX,fog.vicc.wang    #迷雾资料库
+  - DOMAIN-SUFFIX,passkit.com    #wallet票据制作
+  - DOMAIN-SUFFIX,www.passsource.com    #wallet票据制作
+  - DOMAIN,ipostalmail.net   #转运平台
+  # 影音相关
+  - DOMAIN-SUFFIX,yinfans.me
+  - DOMAIN-SUFFIX,pan666.net
+  - DOMAIN-SUFFIX,yqkclub.com
+  - DOMAIN-SUFFIX,tzfile.com
+  - DOMAIN-SUFFIX,typlog.io    #波米和朋友们
+  - DOMAIN-SUFFIX,assrt.net
+  - DOMAIN-SUFFIX,wpxz.top
   # 其他
