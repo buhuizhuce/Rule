@@ -2,19 +2,19 @@ payload:
   ## 代理
   #DOMAIN-SUFFIX,sub.kwk7thgc.com    #订阅
   - DOMAIN-SUFFIX,amytele.net   #AmyTelecom
-  #DOMAIN-SUFFIX,bit.ly/3Rl9lla   #AmyTelecom
-  #DOMAIN-SUFFIX,bit.ly/3xIKG4w   #AmyTelecom
+  - DOMAIN-SUFFIX,amytele.com   #AmyTelecom
+  #DOMAIN-SUFFIX,bit.ly   #AmyTelecom
   #DOMAIN-SUFFIX,api-huacloud.net   # FlowerCloud
   #DOMAIN-SUFFIX,huacloud.net   # FlowerCloud
   - DOMAIN-SUFFIX,flower.yt   # FlowerCloud
   - DOMAIN-SUFFIX,api.stentvessel.top  # Ytoo
   - DOMAIN-SUFFIX,to-ytoo.xyz  # Ytoo
   - DOMAIN,kuromisubs.shop  # Kuromis
+  - DOMAIN-SUFFIX,kuromis.com  # Kuromis
   - DOMAIN,dawanqukun.top  # 大湾区
   - DOMAIN,oceancloud.asia  # 云海互联
   - DOMAIN-SUFFIX,pokeryun.link  # 扑克云
   - DOMAIN-SUFFIX,huawei-cloud.shop  # 扑克云
-  - DOMAIN-SUFFIX,llyh.cc  # 流量银行
   # 黄页
   - DOMAIN-SUFFIX,vcards.metowolf.com
   # 1password
@@ -54,11 +54,15 @@ payload:
   - DOMAIN-SUFFIX,itangtalk.com
   - DOMAIN-SUFFIX,duyaoss.com
   - DOMAIN-SUFFIX,kelee.one
+  - DOMAIN-SUFFIX,shuziyimin.org
+  - DOMAIN-SUFFIX,shuzijumin.com
   # flightradar24
   - DOMAIN-SUFFIX,flightradar24.com
   - DOMAIN-SUFFIX,fr24.com
+  # flightaware
+  - DOMAIN-SUFFIX,flightaware.com
   # RevenueCat
-  - DOMAIN-SUFFIX,api-paywalls.revenuecat.com
+  - DOMAIN-SUFFIX,revenuecat.com
   # Reflix
   - DOMAIN-SUFFIX,reflix.top
   # Fileball
@@ -80,3 +84,10 @@ payload:
   - DOMAIN-SUFFIX,newrelic.com
   - DOMAIN-SUFFIX,optimizely.com
   - DOMAIN-SUFFIX,sub.scpnb.top
+  - DOMAIN-SUFFIX,uscardforum.com
+  - DOMAIN-SUFFIX,duyaoss.com
+  - DOMAIN-SUFFIX,ssr.tools
+  - DOMAIN-SUFFIX,thepiratebay.ee
+  - DOMAIN-SUFFIX,vercel.app
+  - DOMAIN-SUFFIX,gitbook.io   #文本工具
+  - DOMAIN-SUFFIX,www.niceso.net    #网盘搜索
