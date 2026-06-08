@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,reflix.top
 DOMAIN,workers.fileball.app
 DOMAIN-SUFFIX,fileball.app
 # 其他
+DOMAIN-SUFFIX,events.prod.anzu-us.com     #狂野飙车广告平台
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,openexchangerates.org
 DOMAIN-SUFFIX,api.revenuecat.com
