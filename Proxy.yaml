@@ -92,3 +92,4 @@ payload:
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,gitbook.io   #文本工具
   - DOMAIN-SUFFIX,www.niceso.net    #网盘搜索
+  - DOMAIN-SUFFIX,sdk.privacy-center.org
