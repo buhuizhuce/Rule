@@ -68,8 +68,12 @@ payload:
   # Fileball
   - DOMAIN,workers.fileball.app
   - DOMAIN-SUFFIX,fileball.app
+  # 狂野飙车广告平台
+  - DOMAIN-SUFFIX,events.prod.anzu-us.com
+  - DOMAIN-SUFFIX,Logic.anzuinfra.com
+  - DOMAIN-SUFFIX,gateway.prod.anzu-us.com
+  - DOMAIN-SUFFIX,l1-1.anzu.io
   # 其他
-  - DOMAIN-SUFFIX,events.prod.anzu-us.com     #狂野飙车广告平台
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,openexchangerates.org
   - DOMAIN-SUFFIX,api.revenuecat.com
@@ -92,4 +96,5 @@ payload:
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,gitbook.io   #文本工具
   - DOMAIN-SUFFIX,www.niceso.net    #网盘搜索
-  - DOMAIN-SUFFIX,sdk.privacy-center.org
+  - DOMAIN-SUFFIX,api.dicebear.com    #开源随机头像生成服务
+  - DOMAIN-SUFFIX,sdk.privacy-center.org    #Didomi隐私合规与 Cookie 授权管理平台
