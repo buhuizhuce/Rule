@@ -68,7 +68,7 @@ DOMAIN-SUFFIX,reflix.top
 DOMAIN,workers.fileball.app
 DOMAIN-SUFFIX,fileball.app
 
-DOMAIN-SUFFIX,gameloft.com
+#DOMAIN-SUFFIX,gameloft.com
 
 # 狂野飙车广告平台
 DOMAIN-SUFFIX,events.prod.anzu-us.com
