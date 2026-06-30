@@ -252,6 +252,8 @@ IP-CIDR,98.98.121.0/24,no-resolve
 IP-CIDR,36.250.241.230/32,no-resolve
 IP-CIDR,221.195.228.118/32,no-resolve
 
+
+
 # 代理
 DOMAIN-SUFFIX,uzwbdv.xyz    # Nxtitally
 DOMAIN,api-huacloud.net     # FlowerCloud
@@ -265,6 +267,7 @@ DOMAIN,4983c690743e.ai-163cdn.com   # Ytoo
 DOMAIN-SUFFIX,dpenly.org
 DOMAIN-SUFFIX,llyh.cc   #流量银行
 DOMAIN-SUFFIX,llyh.buzz   #流量银行
+IP-CIDR,45.139.226.112/32,no-resolve   代理面板
 # Apple
 #DOMAIN-SUFFIX,app-analytics-services.com
 # 长桥证券
