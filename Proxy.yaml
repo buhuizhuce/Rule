@@ -99,3 +99,4 @@ payload:
   - DOMAIN-SUFFIX,www.niceso.net    #网盘搜索
   - DOMAIN-SUFFIX,api.dicebear.com    #开源随机头像生成服务
   - DOMAIN-SUFFIX,sdk.privacy-center.org    #Didomi隐私合规与 Cookie 授权管理平台
+  - DOMAIN-SUFFIX,greasyfork.org     #油猴脚本网站
