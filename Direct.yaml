@@ -338,7 +338,6 @@ payload:
   # stay
   - DOMAIN-SUFFIX,staybrowser.com
   - DOMAIN-SUFFIX,stayfork.app
-  - DOMAIN-SUFFIX,greasyfork.org
   # 阿里云
   - DOMAIN-SUFFIX,aliyundrive.net
   # 海汽e行
