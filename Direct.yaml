@@ -400,4 +400,8 @@ payload:
   - DOMAIN-SUFFIX,typlog.io    #波米和朋友们
   - DOMAIN-SUFFIX,assrt.net
   - DOMAIN-SUFFIX,wpxz.top
+  # VPS
+  - IP-CIDR,154.23.242.177/32
+  - IP-CIDR,192.3.110.225/32
+  - IP-CIDR,45.139.226.112/32
   # 其他
