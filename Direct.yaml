@@ -402,6 +402,6 @@ payload:
   - DOMAIN-SUFFIX,wpxz.top
   # VPS
   - IP-CIDR,154.23.242.177/32
-  - IP-CIDR,192.3.110.225/32
+  # IP-CIDR,192.3.110.225/32,no-resolve     #LA
   - IP-CIDR,45.139.226.112/32
   # 其他
