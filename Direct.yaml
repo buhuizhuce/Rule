@@ -302,9 +302,9 @@ payload:
   # 锦江荟
   - DOMAIN-SUFFIX,bestwehotel.com
   # oclean
-  - DOMAIN-SUFFIX,oclean.com
-  - DOMAIN-SUFFIX,dutils.com
-  - DOMAIN-SUFFIX,meiqiausercontent.com
+  #DOMAIN-SUFFIX,oclean.com
+  #DOMAIN-SUFFIX,dutils.com
+  #DOMAIN-SUFFIX,meiqiausercontent.com
   # todesk
   - DOMAIN-SUFFIX,todesk.com
   - DOMAIN-SUFFIX,cl2009.com
