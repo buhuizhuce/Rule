@@ -266,6 +266,7 @@ payload:
   - DOMAIN-SUFFIX,llyh.cc   #流量银行
   - DOMAIN-SUFFIX,llyh.buzz   #流量银行
   - IP-CIDR,45.139.226.112/32
+  - DOMAIN-SUFFIX,doubanio.com   # 豆瓣
   # Apple
   #DOMAIN-SUFFIX,app-analytics-services.com
   # 长桥证券
