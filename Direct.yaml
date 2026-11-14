@@ -406,3 +406,6 @@ payload:
   # IP-CIDR,192.3.110.225/32,no-resolve     #LA
   - IP-CIDR,45.139.226.112/32
   # 其他
+  - DOMAIN-SUFFIX,jiejingku.net  #捷径库
+  - DOMAIN-SUFFIX,srtku.com    #字幕库
+  - DOMAIN-SUFFIX,subhd.cc   #字幕下载
