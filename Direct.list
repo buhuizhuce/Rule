@@ -409,5 +409,8 @@ IP-CIDR,154.23.242.177/32,no-resolve    #LA2
 IP-CIDR,45.139.226.112/32,no-resolve    #SG
 
 # 其他
+DOMAIN-SUFFIX,jiejingku.net  #捷径库
+DOMAIN-SUFFIX,srtku.com    #字幕库
+DOMAIN-SUFFIX,subhd.cc   #字幕下载
 
 
