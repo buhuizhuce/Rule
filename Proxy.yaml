@@ -3,10 +3,12 @@ payload:
   #DOMAIN-SUFFIX,sub.kwk7thgc.com    #订阅
   - DOMAIN-SUFFIX,amytele.net   #AmyTelecom
   - DOMAIN-SUFFIX,amytele.com   #AmyTelecom
+  - DOMAIN-SUFFIX,amytele.co    #AmyTelecom
   #DOMAIN-SUFFIX,bit.ly   #AmyTelecom
   #DOMAIN-SUFFIX,api-huacloud.net   # FlowerCloud
-  #DOMAIN-SUFFIX,huacloud.net   # FlowerCloud
-  - DOMAIN-SUFFIX,flower.yt   # FlowerCloud
+  #DOMAIN-SUFFIX,huacloud.net      # FlowerCloud
+  - DOMAIN-SUFFIX,flower.yt          # FlowerCloud
+  - DOMAIN-SUFFIX,flowercloud.net   # FlowerCloud
   - DOMAIN-SUFFIX,api.stentvessel.top  # Ytoo
   - DOMAIN-SUFFIX,to-ytoo.xyz  # Ytoo
   - DOMAIN,kuromisubs.shop  # Kuromis
@@ -102,3 +104,18 @@ payload:
   - DOMAIN-SUFFIX,sdk.privacy-center.org    #Didomi隐私合规与 Cookie 授权管理平台
   - DOMAIN-SUFFIX,greasyfork.org     #油猴脚本网站
   - DOMAIN-SUFFIX,oyunfor.com  #礼品卡购买
+  # 其他
+  - DOMAIN-SUFFIX,mrmad.com.tw
+  - DOMAIN-SUFFIX,nameless13.com
+  - DOMAIN-SUFFIX,nssurge.com
+  - DOMAIN-SUFFIX,nutrepo.com
+  - DOMAIN-SUFFIX,pod.link
+  - DOMAIN-SUFFIX,poorvps.com
+  - DOMAIN-SUFFIX,realmme.org
+  - DOMAIN-SUFFIX,speedypage.com
+  - DOMAIN-SUFFIX,ussms.cyou
+  - DOMAIN-SUFFIX,vmiss.com
+  - DOMAIN-SUFFIX,vvproshop.top
+  - DOMAIN-SUFFIX,yfamilys.com
+  - DOMAIN-SUFFIX,yh.43998362.xyz
+  - DOMAIN-SUFFIX,yukonga.top
