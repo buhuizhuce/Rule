@@ -259,7 +259,6 @@ payload:
   - DOMAIN-SUFFIX,api.xmancdn.net   # FlowerCloud
   - DOMAIN-SUFFIX,y-too.com   # Ytoo
   - DOMAIN-SUFFIX,y-too.net   # Ytoo
-  - DOMAIN-SUFFIX,to-ytoo.xyz   # Ytoo
   - DOMAIN,stentvessel.shop   # Ytoo
   - DOMAIN,4983c690743e.ai-163cdn.com   # Ytoo
   - DOMAIN-SUFFIX,dpenly.org
@@ -363,7 +362,6 @@ payload:
   - DOMAIN-SUFFIX,skk.moe
   - DOMAIN-SUFFIX,fdeer.com
   - DOMAIN-SUFFIX,song.al
-  - DOMAIN-SUFFIX,itangtalk.com
   # 代理软件相关
   - DOMAIN-SUFFIX,surge.qingr.moe
   - DOMAIN-SUFFIX,clashparty.org
@@ -406,6 +404,3 @@ payload:
   # IP-CIDR,192.3.110.225/32,no-resolve     #LA
   - IP-CIDR,45.139.226.112/32
   # 其他
-  - DOMAIN-SUFFIX,jiejingku.net  #捷径库
-  - DOMAIN-SUFFIX,srtku.com    #字幕库
-  - DOMAIN-SUFFIX,subhd.cc   #字幕下载
