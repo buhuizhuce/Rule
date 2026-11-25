@@ -78,6 +78,9 @@ DOMAIN-SUFFIX,events.prod.anzu-us.com
 DOMAIN-SUFFIX,Logic.anzuinfra.com
 DOMAIN-SUFFIX,gateway.prod.anzu-us.com
 DOMAIN-SUFFIX,l1-1.anzu.io
+# Home Assistant
+DOMAIN,homeassistant.taild23f14.ts.net
+
 # 其他
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,openexchangerates.org
